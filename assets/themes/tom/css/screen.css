@@ -17,8 +17,10 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  color: #333;
+  font: 16px 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif;;
   *font-size: small;
+  line-height: 24px;
   text-align: center;
 }
 
@@ -35,7 +37,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #085785;
 }
 
 a:hover {
@@ -43,7 +45,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #085785;
 }
 
 table {
@@ -87,13 +89,13 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #085785;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #085785;
     text-decoration: none;
   }
 
@@ -179,7 +181,7 @@ ul.posts {
   /* terminal */
 
   #post pre.terminal {
-    border: 1px solid black;
+    border: 1px solid #111;
     background-color: #333;
     color: white;
   }
@@ -195,3 +197,29 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+ /* OTS Customs */
+.otsicon{
+height: 50px;
+width: 50px;
+text-align: center;
+float: left;
+margin: auto 10px 10px auto;
+}
+.otsicon img{
+max-height: 50px;
+max-width: 50px;
+padding: 0;
+}
+.otsicon.list{
+width: 100%;
+margin: 10px;
+}
+.article .article-content .otsicon img{
+border: none;
+border-image: none;
+}
+.otsicon.list img{
+margin-right: 10px;
+}
+  
