@@ -20,7 +20,7 @@
 
   <div class="site">
     <div class="title">
-      <a href="{{ HOME_PATH }}">{{ site.title }}</a>
+      <a href="{{ HOME_PATH }}">blog.{{ site.title }}</a>
 
       <!--
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
@@ -35,7 +35,7 @@
     <div class="footer">
       <div class="contact">
         <p>
-          {{ site.title }}<br />
+        <a href="http://www.opentechschool.org/">{{ site.title }}</a><br />
           {{ site.tagline }}<br />
           <a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a>
         </p>
@@ -46,11 +46,11 @@
           <a href="http://twitter.com/{{ site.author.twitter }}/">twitter.com/{{ site.author.twitter }}</a><br />
         </p>
       </div>
-      <div class="rss">
+      <!--<div class="rss">
         <a href="http://feeds.feedburner.com/{{ site.author.feedburner }}">
           <img src="{{ ASSET_PATH }}/images/rss.png" alt="Subscribe to RSS Feed" />
         </a>
-      </div>
+      </div>-->
     </div>
   </div>
  <!-- <a href="http://github.com/{{ site.author.github }}"><img
