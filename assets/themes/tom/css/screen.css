@@ -208,8 +208,9 @@ height: 50px;
 width: 50px;
 text-align: center;
 float: left;
-margin: auto 10px 10px auto;
+padding: 0 10px 0 0;
 }
+
 .otsicon img{
 max-height: 50px;
 max-width: 50px;
