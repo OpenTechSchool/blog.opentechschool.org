@@ -1,0 +1,230 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  color: #333;
+  font: 16px 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif;;
+  *font-size: small;
+  line-height: 24px;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #085785;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #085785;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  .posts h2.post-title {
+    border-top: 4px solid #eee;
+    padding-top: 1em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    line-height: 1.75em;
+  }
+
+  .posts .post-date {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 60%;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  font-size: 110%;
+  text-align: justify;
+  width: 40em;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+}
+
+.title {
+  color: #085785;
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+  .site .title a {
+    color: #085785;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: black;
+  }
+
+  .site .title a.extra {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
+  .site .title a.extra:hover {
+    color: black;
+  }
+
+  .site .meta {
+    color: #aaa;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
+  }
+
+    .site .footer .contact {
+      float: left;
+      margin-right: 3em;
+    }
+
+      .site .footer .contact a {
+        color: #8085C1;
+      }
+
+    .site .footer .rss {
+      margin-top: 1.1em;
+      margin-right: -.2em;
+      float: right;
+    }
+
+      .site .footer .rss img {
+        border: 0;
+      }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+
+}
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
+
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
+
+  /* terminal */
+
+  #post pre.terminal {
+    border: 1px solid #111;
+    background-color: #333;
+    color: white;
+  }
+
+  #post pre.terminal code {
+    background-color: #333;
+  }
+
+#related {
+  margin-top: 2em;
+}
+
+  #related h2 {
+    margin-bottom: 1em;
+  }
+
+ /* OTS Customs */
+.otsicon{
+height: 50px;
+width: 50px;
+text-align: center;
+float: left;
+padding: 0 10px 0 0;
+}
+
+.otsicon img{
+max-height: 50px;
+max-width: 50px;
+padding: 0;
+}
+.otsicon.list{
+width: 100%;
+margin: 10px;
+}
+.article .article-content .otsicon img{
+border: none;
+border-image: none;
+}
+.otsicon.list img{
+margin-right: 10px;
+}
+  
