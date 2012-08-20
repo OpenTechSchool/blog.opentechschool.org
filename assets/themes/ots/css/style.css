@@ -142,7 +142,7 @@ h2 {
   border-bottom: 1px solid #EEE;
   text-transform: uppercase;
   position: relative;
-  margin-bottom: 1.5em;
+  margin-bottom: .75em;
 }
 
 h2 span {
@@ -173,14 +173,6 @@ h2 span {
   outline: none;
   background-position: 0 -140px;
   outline: none;
-}
-
-.workshop_title {
-  width: 50%;
-  margin: 2em auto .5em auto;
-  font-size: 2em;
-  text-align: center;
-  color: #085987;
 }
 
 /* Style for list with floated list items. Responds to screen-width. */
@@ -309,36 +301,6 @@ footer a:focus {
   overflow: hidden;
 }
 
-/* Styleguide*/
-
-.sg_list {
-  list-style: none;
-  padding: 0;
-}
-
-.sg_list small {
-  display: block;
-  margin-bottom: .75em;
-  color: #888;
-  font-style: italic;
-}
-
-.sg_color {
-  display: inline-block;
-  border-radius: 4px;
-  padding: 0 1em;
-  color: transparent;
-}
-
-.sg_textarea {
-  width: 90%;
-  font-size: .625em;
-  color: #888;
-  border: 1px solid #888;
-  padding: .5em;
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
-  border-radius: 4px;
-}
 
 /* ============================== */
 /* ! Layout for desktop version   */
@@ -358,8 +320,9 @@ footer a:focus {
     column-gap: 20px;
   }
 
-  .container_small {
-    padding: 0 25%;
+  .container_blog {
+    width: 640px;
+		margin: 0 auto;
   }
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog.OpenTechSchool.org!
+title: The OpenTechSchool Blog
 tagline: bringing free tech workshops to women and their friends
 ---
 {% include JB/setup %}
@@ -12,7 +12,7 @@ tagline: bringing free tech workshops to women and their friends
     <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </h2>
 
-  <span class="post-date">{{ post.date | date_to_string }}</span> &raquo;
+  <span class="post-date">{{ post.date | date_to_string }}</span>
 
   <div class="post-content">
     {{post.content}}

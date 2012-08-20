@@ -5,18 +5,47 @@
 /*
 /*****************************************************************************/
 
-.posts {
-  list-style-type: none;
 
+.title {
+  width: 100%;
+  margin: 2em auto .5em auto;
+  font-size: 2em;
+  text-align: center;
 }
 
-  .posts h2.post-title {
+	.title a {
+	  color: #085987;
+		text-decoration: none;
+	}
 
+.posts {
+  list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+	h2.post-title {
+		margin-top: 3em;	
+	}
+
+  h2.post-title a {
+		color: black;
+		text-decoration: none;
   }
 
-  .posts .post-date {
-
+  .post-date {
+		position: relative;
+		width: 100%;
+		display: block;
+		margin-bottom: 1em;
+		font-size: .88em;
+		color: #A3A3A3;
+		text-align: center;		
   }
+
+  .posts img {
+		margin: .5em 0;
+	}
 
 /*****************************************************************************/
 /*
@@ -118,13 +147,10 @@
     background-color: #333;
   }
 
-#related {
-  margin-top: 2em;
+#related,
+#feedback {
+  margin-top: 3em;
 }
-
-  #related h2 {
-    margin-bottom: 1em;
-  }
 
  /* OTS Customs */
 .otsicon{
