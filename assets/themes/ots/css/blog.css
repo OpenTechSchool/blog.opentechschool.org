@@ -47,6 +47,11 @@
 		color: #A3A3A3;
 		text-align: center;		
   }
+  
+  .read_more {
+    float: right;
+    margin-top: -.3em;
+  }
 
 /*****************************************************************************/
 /*
@@ -130,7 +135,7 @@
   }
 
 #related,
-#feedback {
+#disqus_thread {
   margin-top: 3em;
 }
 
