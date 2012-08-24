@@ -4,14 +4,20 @@ title: "A look back at JS for Absolute Beginners"
 description: ""
 category: 
 tags: []
+teaser: "
+
+![Participants of the OTS JS workshop](http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg)
+
+
+OpenTechSchool held its first workshop, JS for Absolute Beginners, on July 21-22. Here is a look at the event from three perspectives: that of a participant, a coach, and an organizer. *Thanks* to everyone who made this event a giant success!"
 ---
 {% include JB/setup %}
 
-<img border="0" height="425" src="http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg" width="640">
+![Participants of the OTS JavaScript workshop](http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg)
 
 OpenTechSchool held its first workshop, JS for Absolute Beginners, on July 21-22. Here is a look at the event from three perspectives: that of a participant, a coach, and an organizer. Thanks to everyone who made this event a giant success!
 
-**The participant**
+### The participant
 
 Magdalena Mues works for the online marketing agency <a href="http://www.akm3.de/">AKM3</a>. She took this weekend to learn more about the daily work of some of her colleagues and was happy to participate:
 
@@ -21,7 +27,7 @@ The curriculum of the workshop was written very well and included various progra
 
 Overall, the workshop was a great success for me and I’m looking forward to attending more OpenTechSchool workshops in the future.”
 
-**The coach**
+### The coach
 
 A few words by <a href="https://twitter.com/gryzzly">Misha Reyzlin</a>, one of the awesome coaches for this event:
 
@@ -33,7 +39,7 @@ I would like to specifically thank Marijn Haverbeke and Tiffany Conroy for takin
 
 All in all, teaching was great experience and I am definitely going to do more of it. Thanks to the organizers (OpenTechSchool), to co.up for hosting this event, to the students for giving us chance to give them a glimpse of the awesomeness that programming is, and to other coaches for making this event a success.”
 
-**The organising team member**
+### The organising team member
 
 [Benjamin Kampmann](https://twitter.com/amasoean) oversaw the whole event and looked for lessons to take to others groups and later meetups within OpenTechSchool. Here is what he has to say about it:
 

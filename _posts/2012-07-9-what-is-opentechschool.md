@@ -4,6 +4,9 @@ title: "What is OpenTechSchool?"
 description: ""
 category: 
 tags: []
+teaser: "### Our core values
+
+**Openness** to us means sharing, whether that be the coaches sharing their time and skills, or, over time, the learners sharing what they have gained with newcomers and becoming coaches themselves, as well as sharing their projects and progress with others. It also stands for our aim to provide the opportunity for coaches to pool their brainpower and create the workshop and curriculum themselves, rather than having a rigidly set way to teach or learn the material."
 ---
 {% include JB/setup %}
 

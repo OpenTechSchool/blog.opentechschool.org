@@ -3,7 +3,9 @@ layout: post
 title: "OTS Beginners Meetup, August 8th at 19:00"
 description: ""
 category: 
+author: Giorgia Sambrotta
 tags: []
+teaser: "Berlin is a beautiful city in which you can lose yourself among many amazing tech events, meetings, and chances to exchange and improve your skills. It's very easy for a developer to find other developers and create new projects or get some help with what they’re working on. But what about the beginners? Or what about the people who don't know anything about a particular language they would really love to learn?"
 ---
 {% include JB/setup %}
 
@@ -11,7 +13,7 @@ tags: []
 
 ---
 
-Berlin is a beautiful city in which you can lose yourself among many amazing tech events, meetings, and chances to exchange and improve your skills. Is very easy for a developer to find other developers and create new projects or get some help with what they’re working on. But what about the beginners? Or what about the people who don't know anything about a particular language they would really love to learn?
+Berlin is a beautiful city in which you can lose yourself among many amazing tech events, meetings, and chances to exchange and improve your skills. It's very easy for a developer to find other developers and create new projects or get some help with what they’re working on. But what about the beginners? Or what about the people who don't know anything about a particular language they would really love to learn?
 
 We believe that everyone should have the opportunity to learn new languages, also while doing something real (by real I mean learning by practice, not theory). That's the reason we are proud to announce our first meetup, on August 8th at 19:00 at co.up, aimed at beginners learning to code and develop software.
 

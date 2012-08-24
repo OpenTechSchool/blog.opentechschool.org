@@ -6,6 +6,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+  <title>{{ page.title }}</title>
 
 	<link href="http://feeds.feedburner.com/{{ site.author.feedburner }}" rel="alternate" title="your title" type="application/atom+xml" />
 
@@ -36,7 +38,7 @@
 			<div class="container">
 
 				<h1 class="title">
-					<a href="{{ HOME_PATH }}">The {{site.title}} Blog</a>
+					<a href="{{ HOME_PATH }}">{{site.title}} Blog</a>
 				</h1>
 
 			</div>
@@ -48,11 +50,9 @@
 			<a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Categories</a>
 			<a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}">Tags</a>
 			-->
-		</div>
+		</div>  
 	
 		{{ content }}
-
-
 
 	</div>
 

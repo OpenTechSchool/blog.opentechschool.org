@@ -5,7 +5,11 @@ description: ""
 category: 
 author: "Benjamin Kampmann"
 tags: ["festival", "campuspartyeu", "campusparty", "ots camp", "berlin", "ots", "tempelhof"]
+teaser: "
+I'm very glad to announce that [OpenTechSchool will be offering workshops during CampusParty](http://www.campus-party.eu/2012/developers.html#OpenTechSchool). Yes, we will participate in this week-long tech event, taking place on Tempelhofer Feld in Berlin from August 21 to the 26th. With 10,000 participants, developers, and tech enthusiasts from all over Europe, and over 600 hours of content, workshops, hackathons, presentations, and who knows what else, it will be one of the biggest tech events this city has ever seen. Awesome, right?"
+
 ---
+
 {% include JB/setup %}
 
 I'm very glad to announce that [OpenTechSchool will be offering workshops during CampusParty](http://www.campus-party.eu/2012/developers.html#OpenTechSchool). Yes, we will participate in this week-long tech event, taking place on Tempelhofer Feld in Berlin from August 21 to the 26th. With 10,000 participants, developers, and tech enthusiasts from all over Europe, and over 600 hours of content, workshops, hackathons, presentations, and who knows what else, it will be one of the biggest tech events this city has ever seen. Awesome, right?

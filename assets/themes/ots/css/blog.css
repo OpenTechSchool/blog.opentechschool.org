@@ -25,16 +25,20 @@
 	padding-left: 0;
 }
 
-	h2.post-title {
+	h2.post_title {
 		margin-top: 3em;	
 	}
 
-  h2.post-title a {
+  h2.post_title a {
 		color: black;
 		text-decoration: none;
   }
 
-  .post-date {
+  .post_content {
+   padding-bottom: 1em; 
+  }
+
+  .post_meta {
 		position: relative;
 		width: 100%;
 		display: block;
@@ -43,10 +47,6 @@
 		color: #A3A3A3;
 		text-align: center;		
   }
-
-  .posts img {
-		margin: .5em 0;
-	}
 
 /*****************************************************************************/
 /*

@@ -64,7 +64,7 @@ table {
   margin-bottom: 2em;
 }
 
-  .posts h2.post-title {
+  .posts h2.post_title {
     border-top: 4px solid #eee;
     padding-top: 1em;
     margin-top: 2em;
@@ -72,7 +72,7 @@ table {
     line-height: 1.75em;
   }
 
-  .posts .post-date {
+  .posts .post_meta {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
     font-size: 60%;
