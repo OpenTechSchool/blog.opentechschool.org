@@ -4,13 +4,11 @@ title: "A look back at JS for Absolute Beginners"
 description: ""
 category: 
 tags: []
-teaser: "
+image: http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg
+teaser: "OpenTechSchool held its first workshop, JS for Absolute Beginners, on July 21-22. Here is a look at the event from three perspectives: that of a participant, a coach, and an organizer. Thanks to everyone who made this event a giant success!"
 
-![Participants of the OTS JS workshop](http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg)
-
-
-OpenTechSchool held its first workshop, JS for Absolute Beginners, on July 21-22. Here is a look at the event from three perspectives: that of a participant, a coach, and an organizer. *Thanks* to everyone who made this event a giant success!"
 ---
+
 {% include JB/setup %}
 
 ![Participants of the OTS JavaScript workshop](http://4.bp.blogspot.com/-_AJPNvbLN2o/UCEAcvmxLoI/AAAAAAAAAD0/gp51baUhZzE/s640/292488_208652905928403_2062582250_n.jpg)

@@ -8,7 +8,7 @@
 
 .title {
   width: 100%;
-  margin: 2em auto 0 auto;
+  margin: 3em auto .5em auto;
 	padding-bottom: .5em;
   font-size: 2em;
   text-align: center;
@@ -34,15 +34,20 @@
 		text-decoration: none;
   }
 
+  .header_image {
+    margin-bottom: 1.5em;  
+    display: block;   
+  }
+
   .post_content {
-   padding-bottom: 1em; 
+   padding-bottom: 1.5em; 
   }
 
   .post_meta {
 		position: relative;
 		width: 100%;
 		display: block;
-		margin-bottom: 1em;
+		margin-bottom: 1.5em;
 		font-size: .88em;
 		color: #A3A3A3;
 		text-align: center;		
@@ -135,8 +140,13 @@
   }
 
 #related,
-#disqus_thread {
+#feedback {
   margin-top: 3em;
+}
+
+#related h2,
+#feedback h2 {
+  margin-bottom: 1.5em;  
 }
 
  /* OTS Customs */

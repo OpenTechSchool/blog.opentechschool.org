@@ -4,10 +4,8 @@ title: "First OTS Beginners Meetup, Aug 8th, 2012"
 description: ""
 category: 
 tags: []
-teaser: "![Paul Nelligan at the first OTS Beginners Meetup](/assets/content/MG_0065.jpeg)
-
-
-Our first Beginners Meetup went well, with around 50 participants joining us on August 8th at co.up. First up was <a href='http://beatricemartini.it/' target='_blank'>Bea</a> with a short intro into what OTS is & what we had envisioned for the (still evolving) learn & tell portion of the event."
+image: /assets/content/MG_0065.jpeg
+teaser: "Our first Beginners Meetup went well, with around 50 participants joining us on August 8th at co.up. First up was <a href='http://beatricemartini.it/' target='_blank'>Bea</a> with a short intro into what OTS is & what we had envisioned for the (still evolving) learn & tell portion of the event."
 
 ---
 {% include JB/setup %}

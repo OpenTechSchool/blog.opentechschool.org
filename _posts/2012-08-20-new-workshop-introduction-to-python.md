@@ -4,10 +4,8 @@ title: "First OTS Beginners Meetup, Aug 8th, 2012"
 description: ""
 category: 
 tags: []
-teaser: "![Python](/assets/content/python.png)
-
-
-Alongside all of our hard work to bring you lots of interesting workshops at <a href='http://bit.ly/OTS-camp' target='_blank'>Campus Party</a>, a dedicated team of Python coaches and OTS organizers have been busy planning a new workshop. On September 1st, you will have the chance to attend a four hour introduction to Python, starting at 14:00."
+image: /assets/content/python.png
+teaser: "Alongside all of our hard work to bring you lots of interesting workshops at <a href='http://bit.ly/OTS-camp' target='_blank'>Campus Party</a>, a dedicated team of Python coaches and OTS organizers have been busy planning a new workshop. On September 1st, you will have the chance to attend a four hour introduction to Python, starting at 14:00."
 
 ---
 {% include JB/setup %}

@@ -4,10 +4,8 @@ title: "OTS biweekly team breakfasts"
 description: ""
 category: 
 tags: []
-teaser: "![Participants of the OTS JS workshop](http://3.bp.blogspot.com/-iO7sozeftoQ/UBpUSpdiLrI/AAAAAAAAADk/Cpha4EP_r4k/s640/PANO_20120802_094543.jpg)
-
-
-For the sake of catching up with each other in the 'real world' rather than the Internet, we have decided to meet biweekly for OpenTechSchool team breakfasts. We'll be meeting at 8:30 every other Thursday at co.up. You're invited to join us!"
+image: http://3.bp.blogspot.com/-iO7sozeftoQ/UBpUSpdiLrI/AAAAAAAAADk/Cpha4EP_r4k/s640/PANO_20120802_094543.jpg
+teaser: "For the sake of catching up with each other in the 'real world' rather than the Internet, we have decided to meet biweekly for OpenTechSchool team breakfasts. We'll be meeting at 8:30 every other Thursday at co.up. You're invited to join us!"
 
 ---
 {% include JB/setup %}
