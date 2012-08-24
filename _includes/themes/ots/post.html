@@ -1,8 +1,14 @@
 <div class="container_blog">
 	<h2 class="post_title"><span>{{ page.title }}</span></h2>
-	<p class="post_meta">
-	{{ page.date | date_to_long_string }}
-	</p>
+  <span class="post_meta">
+    {% if post.author %}
+      {{ post.author }}
+    {% else %}
+      {{ site.author.name }} 
+    {% endif %}
+    &middot;    
+    {{ page.date | date_to_long_string }}
+  </span>
 	{{ content }}
 	
 	<div id="related">
