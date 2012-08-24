@@ -5,7 +5,8 @@ description: ""
 category:
 author: Stefan Hoth 
 tags: []
-teaser: "<img alt='Google Apps for Education' src='http://www.uky.edu/ukit/sites/www.uky.edu.ukit/files/Google%20Apps%20Logo.png' />
+teaser: "![Google Apps for Education](/assets/content/google.png)
+
 
 Great news everyone! Just before <a href='http://blog.opentechschool.org/2012/07/javascript-for-absolute-beginners-july.html' target='_blank'>our very first organized free workshop on Javascript</a> kicks off we've been admitted into the <a href='http://www.google.com/apps/intl/en/edu/' rel='nofollow' target='_blank'>Google Apps for Education Program</a>. This means we can stop worrying about potential fees for additional user accounts for our helpers because <b>Google will host us for free</b>."
 
