@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First OTS Beginners Meetup, Aug 8th, 2012"
+title: "New workshop: Introduction to programming with Python"
 description: ""
 category: 
 tags: []
