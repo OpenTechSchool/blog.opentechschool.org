@@ -10,6 +10,13 @@
     {{ page.date | date_to_long_string }}
   </span>
 	{{ content }}
+
+	{% if page.group_signup %}
+		{% assign group_title = page.group_title %}
+		{% assign group_name = page.group_name %}
+
+		{% include mailinglist_signup.html %}
+	{% endif %}
 	
 	<div id="related">
 		<h2><span>Related Posts</span></h2>
