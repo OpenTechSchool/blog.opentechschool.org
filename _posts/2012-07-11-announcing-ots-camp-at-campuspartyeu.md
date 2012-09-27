@@ -9,7 +9,7 @@ teaser: "I'm very glad to announce that [OpenTechSchool will be offering worksho
 
 group_signup: 1
 group_title: OTSCamp Coaches
-group_name: otscamp-coaches
+group_name: coaches.otscamp
 
 ---
 

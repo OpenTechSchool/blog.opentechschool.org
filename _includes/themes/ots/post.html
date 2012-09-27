@@ -1,8 +1,8 @@
 <div class="container_blog">
 	<h2 class="post_title"><span>{{ page.title }}</span></h2>
   <span class="post_meta">
-    {% if post.author %}
-      {{ post.author }}
+    {% if page.author %}
+      {{ page.author }}
     {% else %}
       {{ site.author.name }} 
     {% endif %}
