@@ -31,4 +31,4 @@ You can also check out photos from the event at the [OpenTechSchool Facebook Pag
 
 OpenTechSchool would like to give a big THANK YOU! to all of the participants, to the beginners for taking their first steps into programming, to the coaches for volunteering their time, the OpenTechSchool organisers and of course co.up for hosting the event.
 
-Our Python course continues with part two, where we learn how to use Python to access the web. Unfortunately the course is already full, but feel free to join the waiting list. You can find all the details on our [meetup page](http://www.meetup.com/opentechschool/events/80593922/).
+Our Python course continues with part two, where we learn how to use Python to access the web. Unfortunately the course is already full, but feel free to join the waiting list. You can find all the details on our [meetup page](http://www.meetup.com/opentechschool-berlin/events/80593922/).

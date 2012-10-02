@@ -39,5 +39,5 @@ big thank you to [Co.Up](http://co-up.de/) for hosting us in their
 event space. If you want to keep in touch then you can follow
 OpenTechSchool on [Twitter](https://twitter.com/OpenTechSchool) or
 [Facebook](http://www.facebook.com/OpenTechSchool) and join us in our
-[Meetup group](http://www.meetup.com/opentechschool/). We look forward
+[Meetup group](http://www.meetup.com/opentechschool-berlin/). We look forward
 to seeing you next time!

@@ -32,7 +32,7 @@ All in all it was a very tiring yet fulfilling experience to be part of Campus P
 
 Since the “open” in OpenTechSchool is sincere, you are invited to comment or to contribute even more: Come to our [biweekly team breakfast to get involved](http://blog.opentechschool.org/2012/08/ots-biweekly-team-breakfasts.html).
 
-We are already thinking about new workshops and other formats to try out and can use every helping hand. See you at the breakfast or maybe you got a seat for the “[Introduction to programming with python](http://www.meetup.com/opentechschool/events/73203362/?action=detail&eventId=73203362)” next weekend and we’ll see you there.
+We are already thinking about new workshops and other formats to try out and can use every helping hand. See you at the breakfast or maybe you got a seat for the “[Introduction to programming with python](http://www.meetup.com/opentechschool-berlin/events/73203362/?action=detail&eventId=73203362)” next weekend and we’ll see you there.
 
 Keep on learning!
 
