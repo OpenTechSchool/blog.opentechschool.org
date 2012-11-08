@@ -4,7 +4,7 @@ title: "Call for coaches: Math 3D"
 description: ""
 author: "Benjamin Kampmann"
 category: 
-tags: ["math", "math-3d", "ots", "erlin"]
+tags: ["math", "math-3d", "ots", "berlin"]
 
 teaser: "Animations and visualisations are nice look at, but not that easy to produce, epecially when you are missing the math background. That's why OpenTechSchool would love to host a workshop about math in visualisation and 3D. In order to do that, we need help!"
 
