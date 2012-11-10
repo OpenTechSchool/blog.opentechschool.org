@@ -1,0 +1,10 @@
+blog_feed_loaded([
+ {% for post in site.posts %}
+	{% if post.tags contains page.tag -%}
+	{
+		"title": "{{post.title|escape}}",
+		"date": "{{ post.date | date_to_string }}"
+	}, 
+	{% endif %}
+ {% endfor %}
+ null])
