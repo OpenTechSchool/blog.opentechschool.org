@@ -24,7 +24,7 @@ tagline: bringing free tech workshops to women and their friends
   <div class="post_content">
     {% if post.image %}
       <a class="header_image" href="{{ BASE_PATH }}{{ post.url }}">
-        <img alt="{{ post.title }}" src="{{ post.image }}" />
+        <img alt="{{ post.title|escape }}" src="{{ post.image }}" />
       </a>
     {% endif %}
     {% if post.teaser %}
