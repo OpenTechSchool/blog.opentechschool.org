@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Launching ""Project Nikolaus""
+title: "Launching \"Project Nikolaus\""
 description: ""
-teaser: "Much has happened since we created our first version of the website back in July: not only did we move to [meetup.com](http://www.meetup.com/opentechschool-berlin/) to manage most of our events, gain new team members, and add plenty of [learning materials](http://www.openTechSchool.org/material.html), we also set up OpenTechSchool in another city - [Stockholm](http://www.opentechschool.org/stockholm/)! The website didn't reflect any of those changes, though, so we decided to redo everything from the ground up. I am very proud to announce that "Project Nikolaus" officially took off and you can [see the results online](http://www.openTechSchool.org/) as of now. "Project Nikolaus" wasn't only the redesign of a website, but is about much more than that, and I'd like to take the time to explain a few aspects of it to you in this blog post.
-
-"
+teaser: "Much has happened since we created our first version of the website back in July: not only did we move to [meetup.com](http://www.meetup.com/opentechschool-berlin/) to manage most of our events, gain new team members, and add plenty of [learning materials](http://www.openTechSchool.org/material.html), we also set up OpenTechSchool in another city - [Stockholm](http://www.opentechschool.org/stockholm/)! The website didn't reflect any of those changes, though, so we decided to redo everything from the ground up. I am very proud to announce that \"Project Nikolaus\" officially took off and you can [see the results online](http://www.openTechSchool.org/) as of now. \"Project Nikolaus\" wasn't only the redesign of a website, but is about much more than that, and I'd like to take the time to explain a few aspects of it to you in this blog post."
 author: "Benjamin Kampmann"
 tags: ["website", "nikolaus", "relaunch", "global"]
 image: /assets/content/2012-12-06-project-nikolaus/main.png
