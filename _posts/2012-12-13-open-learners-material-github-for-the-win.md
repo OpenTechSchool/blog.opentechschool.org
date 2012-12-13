@@ -7,7 +7,7 @@ tags: ["material", "openness", "global"]
 ---
 {% include JB/setup %}
 
-As some you already know, [me](http://open-strategies.de/speaker/27) and [Amélie](http://open-strategies.de/speaker/37) presented at the [Summit of Newthinking](http://open-strategies.de/) about a month ago. Amélie gave a great talk about what we do at the [OpenTechSchool on day 1](http://vimeo.com/54966142) and I had a slot to talk about how we use Git, Github and GH-Pages to write and organise our Learners Material. A topic I wanted to document for a while already, but before actually committing to it for that talk I never found the courage to actually do it. But especially now, with the whole Video being available online, I'd like to share those with you. 
+As some you already know, [me](http://open-strategies.de/speaker/27) and [Amélie](http://open-strategies.de/speaker/37) presented at the [Summit of Newthinking](http://open-strategies.de/) about a month ago. Amélie gave a great talk about what we do at the [OpenTechSchool on day 1](http://vimeo.com/54966142) and I had a slot to talk about how we use Git, Github and GH-Pages to write and organise our Learners Material. A topic I wanted to document for a while already, but before actually committing to it for that talk I never found the courage to actually do it. But especially now, with the full video being available online, I'd like to share those with you. 
 
 So here is the [presentation](http://opentechschool.github.com/slides/presentations/opencurriuculum-github-for-the-win/) (to use the slides, click on it with mouse and then use your arrow keys) and the [video recording](http://vimeo.com/55273023):
 
