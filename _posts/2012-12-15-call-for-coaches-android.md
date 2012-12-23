@@ -22,7 +22,7 @@ First released in November 2007, the mobile operating system [Android](http://ww
 
 As smartphone use rises, people are getting more more interested in apps and how they are created. Our workshop for beginners aims to enable learners to create their very first Android app. In order to do this, **we need qualified coaches** who will teach according to [our coaching guide](http://opentechschool.github.com/slides/presentations/coaching/) and can answer typical beginners' questions during the first steps of Android development.
 
-Once we have a group of coaches, we will agree on a curriculum and set a date for the workshop. At the moment, we hope to hold this workshop in mid-February.
+Once we have a group of coaches, we will agree on a curriculum and set a date and location in Berlin for the workshop. At the moment, we hope to hold this workshop in mid-February.
 
 If you are up to the challenge and would like to inspire others to build more awesome Android apps, please join the mailing list for coaches below.
 
