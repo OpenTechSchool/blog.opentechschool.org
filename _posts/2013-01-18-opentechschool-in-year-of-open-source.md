@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenTechSchool in the 'Year of Open Source' Project"
+title: "OpenTechSchool in 'Year of Open Source'"
 description: ""
 category: 
 author: "Benjamin Kampmann"
