@@ -1,11 +1,13 @@
 <div class="container_blog">
 	<h2 class="post_title"><span>{{ page.title }}</span></h2>
   <span class="post_meta">
-    {% if page.author %}
-      {{ page.author }}
-    {% else %}
-      {{ site.author.name }} 
-    {% endif %}
+   {% if page.author %}
+      {% if page.author.link %}
+        <a href="{{page.author.link">{{page.author.name}}</a>
+      {% else %}
+        {{ page.author.name }} 
+      {% endif %}
+  {% endif %}
     &middot;    
     {{ page.date | date_to_long_string }}
   </span>

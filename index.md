@@ -13,10 +13,12 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
 
   <span class="post_meta">
     {% if post.author %}
-      {{ post.author }}
-    {% else %}
-      {{ site.author.name }} 
-    {% endif %}
+      {% if post.author.link %}
+        <a href="{{post.author.link">{{post.author.name}}</a>
+      {% else %}
+        {{ post.author.name }} 
+      {% endif %}
+  {% endif %}
     &middot;    
     {{ post.date | date_to_long_string }}
   </span>
