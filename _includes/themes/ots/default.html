@@ -24,8 +24,8 @@
       {% endif %}
     {% endif %}
 
-    {% if page.description and page.description != "" %}
-      {% capture desc %}{{ page.description | markdownify }}{% endcapture %}
+    {% if page.teaser and page.teaser != "" %}
+      {% capture desc %}{{ page.teaser | markdownify }}{% endcapture %}
     {% else %}
       {% capture desc %}{{ site.description }}{% endcapture %}
     {% endif %}
