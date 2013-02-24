@@ -4,7 +4,9 @@ title: "OTS Melbourne - Introduction to Programming"
 teaser: "OpenTechSchool Melbourne kicks off with Introduction to Programming in Python" 
 category: 
 tags: ["python", "beginners", "workshop", "melbourne", "australia"]
-author: "Steven Farlie"
+author:
+  name: "Steven Farlie"
+  gplus: 102640147012798270594
 ---
 {% include JB/setup %}
 

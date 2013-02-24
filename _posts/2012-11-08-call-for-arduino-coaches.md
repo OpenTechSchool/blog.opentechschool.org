@@ -3,7 +3,9 @@ layout: post
 title: "Call for Arduino coaches"
 description: ""
 category: 
-author: "Benjamin Kampmann"
+author:
+  name: "Benjamin Kampmann"
+  gplus: 104898591568170720911
 tags: ["arduino", ots", "workshop", "hardware", "call-for-coaches", "berlin", "stockholm"]
 
 image: /assets/content/2012-11-08-call-for-arduino-coaches/arduino_board.jpg

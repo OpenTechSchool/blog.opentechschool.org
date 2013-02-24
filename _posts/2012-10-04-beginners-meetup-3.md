@@ -3,7 +3,9 @@ layout: post
 title: "Beginners Meetup #3"
 teaser: "Our third Beginners Meetup was last week, where we learnt about binary and logic gates and had two very inspiring talks from women who have recently learnt programming."
 image: assets/content/2012-10-04-beginners-meetup-3/text2squares.jpg
-author: Duana Stanley
+author:
+  name: Duana Stanley
+  gplus: 112209835624840039257
 category: beginners-meetup
 tags: []
 ---

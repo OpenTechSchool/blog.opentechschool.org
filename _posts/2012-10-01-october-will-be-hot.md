@@ -3,7 +3,9 @@ layout: post
 title: "October will be hot"
 description: ""
 category: 
-author: "Benjamin Kampmann"
+author:
+  name: "Benjamin Kampmann"
+  gplus: 104898591568170720911
 tags: ["hot", "october", "js", "javascript", "workshop", "berlin", "stockholm"]
 teaser: "We have been very busy behind the scenes to create the most awesome month of OpenTechSchool yet: plenty of events this month and even more coming up or in the works. Also our very **first event outside of Berlin** and more about our expansion in this article..."
 ---

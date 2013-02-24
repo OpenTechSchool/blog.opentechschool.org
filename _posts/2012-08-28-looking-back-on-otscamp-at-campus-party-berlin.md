@@ -4,7 +4,10 @@ title: "Looking back on OTSCamp at Campus Party Berlin"
 description: ""
 category: 
 tags: []
-author: "Stefan"
+author:
+  name: "Stefan"
+  glus: 111333123856542807695
+
 image: https://lh5.googleusercontent.com/-uCHxHu9SEuQ/UDpWZIxuFfI/AAAAAAAAADI/YST4v34SKTs/w974-h180/PANO_20120821_155041.jpg
 teaser: "
 Wow, that was an intense and a very exciting week. When we first got offered the possibility to have a presence at Campus Party [link] we thought it would be a nice addition to their program to hold 2-3 workshops there. We were just in the planning state for our very first workshop and didn’t know where our journey would take us.
