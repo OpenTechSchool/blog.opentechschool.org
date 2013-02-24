@@ -4,8 +4,8 @@ title: "Thinking education further than tech"
 teaser: "We at the [OpenTechSchool](http://www.opentechschool.org/) are coming from the tech-industry and are tech-savvy people, who started this whole movement because we felt technology is tought wrong as it is done today. We never really thought further than tech until Sam made the great Video of us for his \"Year of Open Source\"-Project and [raised said question in the corresponding blog post](http://yearofopensource.net/meet-new-people-learn-to-code-eat-snacks/). In it Sams asks whether the way we organise ourself and our learning materials in combination with the very personal and including way of real-life events could be transfered to other topics and subjects. Sure, we saw the idea of the OpenStartupSchool here in Berlin (on which we are still waiting for anything to happen) but as this rather close to us and focusses on a similar audience, we really didn't see this as going much further. Not until Sam brought up that this sounds like a great learning technique for learning languages.
 "
 category: 
-tags: ["ots", "berlin geekettes", "hackathon", "learners", "coaches", "women", "berlin"]
-
+tags: ["ots", "further", "education", "languages"]
+author: Benjamin Kampmann
 image: /assets/content/france_xxi_century_school_in_yr_2000.jpg
 ---
 {% include JB/setup %}
