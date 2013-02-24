@@ -7,7 +7,54 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-  <title>{{ page.title }}</title>
+  
+    {% capture title %}{% if page.title %}{{ page.title | capitalize }}{% if page.tagline %} - {{page.tagline| capitalize }}{% endif %} || {{site.title}}{% else %} {{site.title}}{% endif %}{% endcapture %}
+
+    <title>{{ title | escape }}</title>
+    <meta property="og:title" content="{{ title  | escape }}" />
+    <meta property="twitter:title" content="{{ title | escape }}" />
+
+    {% if page.image %}
+      <meta property="og:image" content="{{ BASE_PATH }}{{ page.image }}" />
+      <meta property="twitter:image" content="{{ BASE_PATH }}{{ page.image }}" />
+    {% else %}
+      {% if site.image %}
+        <meta property="og:image" content="{{ BASE_PATH }}{{ site.image }}" />
+        <meta property="twitter:image" content="{{ BASE_PATH }}{{ site.image }}" />
+      {% endif %}
+    {% endif %}
+
+    {% if page.description and page.description != "" %}
+      {% capture desc %}{{ page.description | markdownify }}{% endcapture %}
+    {% else %}
+      {% capture desc %}{{ site.description }}{% endcapture %}
+    {% endif %}
+
+    <meta name="description" content="{{ desc | escape }}">
+    <meta property="og:description" content="{{ desc | escape }}"/>
+    <meta property="twitter:description" content="{{ desc | escape }}"/>
+
+
+    {% if page.author %}
+      <meta name="author" content="{{ page.author.name }}">
+      {% if page.author.gplus %}
+        <link rel="author" href="https://plus.google.com/{{ page.author.gplus }}" />
+      {% endif %}
+    {% else %}
+      <meta name="author" content="{{ site.author.name }}">
+      {% if site.author.gplus %}
+        <link rel="author" href="https://plus.google.com/{{ site.author.gplus }}" />
+      {% endif %}
+    {% endif %}
+
+
+    {% if site.publisher.gplus %}
+      <link rel="publisher" href="https://plus.google.com/{{ site.publisher.gplus }}" />
+    {% endif %}
+
+    {% if site.fb_admins %}
+      <meta property="fb:admins" content="{{ site.fb_admins }}" />
+    {% endif %}
 
   <link href="{{ site.production_url }}/atom.xml" rel="alternate" title="{{ site.title }} Feed" type="application/atom+xml" />
 
