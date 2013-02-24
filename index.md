@@ -1,7 +1,7 @@
 ---
 layout: page
-title: OpenTechSchool Blog
-tagline: bringing free tech workshops to women and their friends
+title: OpenTechSchool
+tagline: "organizing tech workshops. Hands-on, awesome, and free."
 ---
 {% include JB/setup %}
 
