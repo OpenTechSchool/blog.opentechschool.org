@@ -34,17 +34,16 @@
     <meta property="og:description" content="{{ desc | escape }}"/>
     <meta property="twitter:description" content="{{ desc | escape }}"/>
 
-
     {% if page.author %}
-      <meta name="author" content="{{ page.author.name }}">
-      {% if page.author.gplus %}
-        <link rel="author" href="https://plus.google.com/{{ page.author.gplus }}" />
-      {% endif %}
+      {% assign author = site.authors[page.author] %}
     {% else %}
-      <meta name="author" content="{{ site.author.name }}">
-      {% if site.author.gplus %}
-        <link rel="author" href="https://plus.google.com/{{ site.author.gplus }}" />
-      {% endif %}
+      {% assign author = site.authors[site.default_author] %}
+    {% endif %}
+
+
+    <meta name="author" content="{{ author.name }}">
+    {% if author.gplus %}
+      <link rel="author" href="https://plus.google.com/{{ author.gplus }}" />
     {% endif %}
 
 

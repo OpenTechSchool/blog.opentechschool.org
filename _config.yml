@@ -22,6 +22,41 @@ author :
 publisher: ## OpenTechSchool Page
   gplus: 114834784518588736271
 
+authors:
+  aleks: 
+    name: Aleks
+    gplus: 110892884103962638885
+    email: aleks at OpenTechSchool dot org
+  amelie:
+    name: "Amélie Anglade"
+    gplus: 113881124006632726148
+    email: amelie at OpenTechSchool dot org
+  bea:
+    name: Beatrice Martini
+    gplus: 117054742827125727334
+    email: beatrice @ OpenTechSchool dot org
+  ben:
+    name: "Benjamin Kampmann"
+    gplus: 104898591568170720911
+    email: ben at OpenTechSchool dot org
+  duana:
+    name: Duana Stanley
+    gplus: 112209835624840039257
+    email: duana at OpenTechSchool dot org
+  gio:
+    name: Giorgia Sambrotta
+    gplus: 112468997622326549149
+    email: giorgia at OpenTechSchool dot org
+  stefan:
+    name: "Stefan Hoth"
+    gplus: 111333123856542807695
+    email: stefan at OpenTechSchool dot org
+  steven:
+    name: "Steven Farlie"
+    gplus: 102640147012798270594
+    email: steven at OpenTechSchool dot org
+
+default_author: aleks
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
 

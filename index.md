@@ -7,18 +7,24 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
 
 <div class="posts">
 {% for post in site.posts %}
+
+  {% if post.author %}
+    {% assign author = site.authors[post.author] %}
+  {% else %}
+    {% assign author = site.authors[site.default_author] %}
+  {% endif %}
+
   <h2 class="post_title">
     <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </h2>
 
   <span class="post_meta">
-    {% if post.author %}
-      {% if post.author.link %}
-        <a href="{{post.author.link">{{post.author.name}}</a>
-      {% else %}
-        {{ post.author.name }} 
-      {% endif %}
-  {% endif %}
+
+    {% if author.link %}
+      <a href="{{author.link">{{author.name}}</a>
+    {% else %}
+      {{ author.name }} 
+    {% endif %}
     &middot;    
     {{ post.date | date_to_long_string }}
   </span>
