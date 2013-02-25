@@ -2,9 +2,7 @@
 layout: post
 title: "We are supported by Google Apps for Education"
 category:
-author:
-  name: Stefan Hoth
-  gplus: 111333123856542807695
+author: stefan
 tags: []
 image: /assets/content/google.png
 teaser: "Great news everyone! Just before <a href='http://blog.opentechschool.org/2012/07/javascript-for-absolute-beginners-july.html' target='_blank'>our very first organized free workshop on Javascript</a> kicks off we've been admitted into the <a href='http://www.google.com/apps/intl/en/edu/' rel='nofollow' target='_blank'>Google Apps for Education Program</a>. This means we can stop worrying about potential fees for additional user accounts for our helpers because <b>Google will host us for free</b>."

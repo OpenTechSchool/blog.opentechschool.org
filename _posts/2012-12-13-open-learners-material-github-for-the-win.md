@@ -2,9 +2,7 @@
 layout: post
 title: "Open learning material: GitHub for the win"
 teaser: "Last month, Ben gave a talk on how OpenTechSchool uses GitHub to create and manage learning material in an efficient and open fashion at the Summit of Newthinking in Berlin. Since the recordings have been uploaded, we want to publish both the video as well as the presentation on this blog."
-author:
-  name: "Benjamin Kampmann"
-  gplus: 104898591568170720911
+author: ben
 tags: ["material", "openness", "global"]
 ---
 {% include JB/setup %}

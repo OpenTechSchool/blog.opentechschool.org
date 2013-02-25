@@ -2,9 +2,7 @@
 layout: post
 title: "Stockholm Calling"
 description: ""
-author:
-  name: "Benjamin Kampmann"
-  gplus: 104898591568170720911
+author: ben
 category: 
 image: /assets/content/stockholm.jpg
 tags: ["stockholm", "ots", "local", "sweden"]

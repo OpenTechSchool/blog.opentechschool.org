@@ -4,9 +4,7 @@ title: "let's micro hack"
 description: ""
 category: 
 tags: ['berlin', 'hacking', 'afternoon', 'hackday']
-author:
-  name: Benjamin Kampmann
-  gplus: 104898591568170720911
+author: ben
 image: http://photos4.meetupstatic.com/photos/event/a/f/0/c/600_166064812.jpeg
 
 teaser: 'A few months back me and my pal [Paul Nelligan](http://www.linkedin.com/in/nellboy) started our little "Micro Hack Days": Every once in a while, we took the Saturday afternoon to come and hack together in some public place. It was fun and productive, but quickly we realised it would be nice to have more people there to hack-a-long and chat with. So beginning of October we decided to institutionalize this a bit more and make a public meetup under the OpenTechSchool umbrella. Last Saturday we hosted the first "official" event and it was ... splendid!'

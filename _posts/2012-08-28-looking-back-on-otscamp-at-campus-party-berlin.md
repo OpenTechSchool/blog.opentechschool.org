@@ -4,9 +4,7 @@ title: "Looking back on OTSCamp at Campus Party Berlin"
 description: ""
 category: 
 tags: []
-author:
-  name: "Stefan"
-  glus: 111333123856542807695
+author: stefan
 
 image: https://lh5.googleusercontent.com/-uCHxHu9SEuQ/UDpWZIxuFfI/AAAAAAAAADI/YST4v34SKTs/w974-h180/PANO_20120821_155041.jpg
 teaser: "

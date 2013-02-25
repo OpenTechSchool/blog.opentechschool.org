@@ -4,9 +4,7 @@ title: "Call for coaches: Android for beginners"
 description: ""
 teaser: "Learn how to program your first app for Android, Google's most successful mobile operating system"
 category: 
-author:
-  name: "Stefan Hoth"
-  gplus: 111333123856542807695
+author: stefan
 tags: ["android", ots", "workshop", "software", "call-for-coaches", "berlin"]
 
 group_signup: 1

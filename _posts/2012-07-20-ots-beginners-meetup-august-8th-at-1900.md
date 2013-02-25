@@ -3,9 +3,7 @@ layout: post
 title: "OTS Beginners Meetup, August 8th at 19:00"
 description: ""
 category: 
-author:
-  name: Giorgia Sambrotta
-  gplus: 112468997622326549149
+author: gio
 tags: []
 teaser: "Berlin is a beautiful city in which you can lose yourself among many amazing tech events, meetings, and chances to exchange and improve your skills. It's very easy for a developer to find other developers and create new projects or get some help with what they’re working on. But what about the beginners? Or what about the people who don't know anything about a particular language they would really love to learn?"
 ---

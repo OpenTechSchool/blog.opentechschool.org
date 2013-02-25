@@ -6,9 +6,7 @@ category:
 teaser: "Last Tuesday marked the 3rd Python workshop for OTS
 Berlin. Let's look back on creating websites with Django."
 image: assets/content/2012-10-28-django-101/3.jpg
-author:
-  name: Steven Farlie
-  gplus: 102640147012798270594
+author: steven
 tags: []
 ---
 {% include JB/setup %}

@@ -4,9 +4,7 @@ title: "Python Coaches Wanted"
 description: ""
 teaser: "Last Saturday the python coaches of Berlin met once again to discuss the upcoming learning materials and workshops for the next few weeks and months. There will be more material and though people already volunteered to join in writing, we want more coaches to participate."
 category: 
-author:
-  name: "Benjamin Kampmann"
-  gplus: 104898591568170720911
+author: ben
 tags: ["python", "ots", "workshop", "software", "call-for-coaches", "berlin"]
 
 group_signup: 1
