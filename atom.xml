@@ -16,12 +16,28 @@ title : Atom Feed
  </author>
 
  {% for post in site.posts %}
+   {% if post.author %}
+    {% assign author = site.authors[post.author] %}
+    {% assign author_id = post.author %}
+  {% else %}
+    {% assign author = site.authors[site.default_author] %}
+    {% assign author_id = site.default_author %}
+  {% endif %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.production_url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+   		<name>{{author.name}}</name>
+   		<email>{{author.email}}</email>
+   		{% if author.link %}
+     	 	<uri>{{author.link}}</uri>
+    	{% else %}
+     	 	<uri>{{ BASE_PATH }}/authors.html#{{author_id}}</uri>
+    	{% endif %}
+   </author>
  </entry>
  {% endfor %}
  
