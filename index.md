@@ -10,8 +10,10 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
 
   {% if post.author %}
     {% assign author = site.authors[post.author] %}
+    {% assign author_id = post.author %}
   {% else %}
     {% assign author = site.authors[site.default_author] %}
+    {% assign author_id = site.default_author %}
   {% endif %}
 
   <h2 class="post_title">
@@ -23,7 +25,7 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
     {% if author.link %}
       <a href="{{author.link">{{author.name}}</a>
     {% else %}
-      {{ author.name }} 
+      <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
     {% endif %}
     &middot;    
     {{ post.date | date_to_long_string }}

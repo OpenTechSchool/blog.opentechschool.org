@@ -174,4 +174,44 @@ border-image: none;
 .otsicon.list img{
 margin-right: 10px;
 }
-  
+
+.team_list img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.team_list div {
+  clear: both;
+  margin: 15px;
+  min-height: 200px;
+}
+
+
+.team_list h3 {
+  padding-top: 30px;
+}
+
+.team_list p {
+  font-size: 0.8em;
+}
+
+.team_list .left {
+  text-align: left;
+}
+
+.team_list .left img{
+  float:left ;
+}
+
+
+
+.team_list .right {
+  text-align: right;
+}
+
+.team_list .right img{
+  float:right ;
+}
