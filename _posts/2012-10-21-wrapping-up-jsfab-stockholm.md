@@ -3,7 +3,7 @@ layout: post
 title: "Wrapping up JSFAB Stockholm"
 description: ""
 category: 
-author: Beatrice Martini
+author: bea
 image: /assets/content/2012-10-13-JSfAB-Stockholm/IMG_9056.JPG
 teaser: "OpenTechSchool is in Stockholm, and we couldn't wait for our first workshop to take place. Get to read and see all about it:"
 tags: []

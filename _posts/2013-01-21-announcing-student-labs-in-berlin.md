@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing Student Labs in Berlin"
 teaser: "Through the [Hive-Network](http://hiveberlin.tumblr.com/) we recently came together with [Sebastian Seitz](http://s-seitz.de/) from the [Technologie Stiftung Berlin (TSB)](http://www.tsb-berlin.de/). He is supervising the project \"Make IT real\" and one of the things they are organising there are so called \"Student Labs\" here in Berlin: a place set up to facilitate a whole class of pupils or students and make a half- or even full-day workshops dedicated to teach tech topics. And the OpenTechSchool would like to help with that."
-author: "Benjamin Kampmann"
+author: ben
 tags: ["ots", "workshop", "software", "call-for-coaches", "berlin"]
 
 group_signup: 1

@@ -1,11 +1,17 @@
+{% if page.author %}
+  {% assign author = site.authors[page.author] %}
+{% else %}
+  {% assign author = site.authors[site.default_author] %}
+{% endif %}
+
 <div class="container_blog">
 	<h2 class="post_title"><span>{{ page.title }}</span></h2>
   <span class="post_meta">
-    {% if page.author %}
-      {{ page.author }}
-    {% else %}
-      {{ site.author.name }} 
-    {% endif %}
+  {% if author.link %}
+    <a href="{{author.link">{{author.name}}</a>
+  {% else %}
+    {{ author.name }} 
+  {% endif %}
     &middot;    
     {{ page.date | date_to_long_string }}
   </span>

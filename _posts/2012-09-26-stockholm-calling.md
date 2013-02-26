@@ -2,7 +2,7 @@
 layout: post
 title: "Stockholm Calling"
 description: ""
-author: "Benjamin Kampmann"
+author: ben
 category: 
 image: /assets/content/stockholm.jpg
 tags: ["stockholm", "ots", "local", "sweden"]

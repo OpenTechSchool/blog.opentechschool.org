@@ -3,7 +3,7 @@ layout: post
 title: "OpenTechSchool in 'Year of Open Source'"
 description: ""
 category: 
-author: "Benjamin Kampmann"
+author: ben
 tags: []
 image: /assets/content/sams_video_shot.png
 ---

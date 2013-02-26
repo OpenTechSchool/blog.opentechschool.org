@@ -2,7 +2,7 @@
 layout: post
 title: "Call for coaches: Math 3D"
 description: ""
-author: "Benjamin Kampmann"
+author: ben
 category: 
 tags: ["math", "math-3d", "ots", "berlin"]
 

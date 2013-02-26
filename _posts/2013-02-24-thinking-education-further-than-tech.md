@@ -5,7 +5,7 @@ teaser: "We at the [OpenTechSchool](http://www.opentechschool.org/) are coming f
 "
 category: 
 tags: ["ots", "further", "education", "languages"]
-author: Benjamin Kampmann
+author: ben
 image: /assets/content/france_xxi_century_school_in_yr_2000.jpg
 ---
 {% include JB/setup %}

@@ -1,21 +1,29 @@
 ---
 layout: page
-title: OpenTechSchool Blog
-tagline: bringing free tech workshops to women and their friends
+title: OpenTechSchool
+tagline: "organizing tech workshops. Hands-on, awesome, and free."
 ---
 {% include JB/setup %}
 
 <div class="posts">
 {% for post in site.posts %}
+
+  {% if post.author %}
+    {% assign author = site.authors[post.author] %}
+  {% else %}
+    {% assign author = site.authors[site.default_author] %}
+  {% endif %}
+
   <h2 class="post_title">
     <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </h2>
 
   <span class="post_meta">
-    {% if post.author %}
-      {{ post.author }}
+
+    {% if author.link %}
+      <a href="{{author.link">{{author.name}}</a>
     {% else %}
-      {{ site.author.name }} 
+      {{ author.name }} 
     {% endif %}
     &middot;    
     {{ post.date | date_to_long_string }}

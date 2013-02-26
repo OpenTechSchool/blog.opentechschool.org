@@ -4,7 +4,7 @@ title: "Bootstrapping OpenTechSchool Australia"
 description: ""
 teaser: "OpenTechSchool is going down under with recent Berlin alumni Steven Farlie kicking things off in Melbourne with a call for core members."
 category: 
-author: "Steven Farlie"
+author: steven
 tags: []
 ---
 {% include JB/setup %}

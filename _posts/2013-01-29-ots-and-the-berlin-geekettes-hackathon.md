@@ -4,7 +4,7 @@ title: "OpenTechSchool and the Berlin Geekettes Hackathon"
 description: ""
 teaser: "You know that at OpenTechSchool we have always been supportive of women in tech, being glad that half of our learners are women, proud to have amazing female role models among our coaches and dedicated to building a safe learning environment where both women and men can feel welcome."
 category:
-author: "Amélie Anglade"
+author: amelie
 tags: ["ots", "berlin geekettes", "hackathon", "learners", "coaches", "women", "berlin"]
 
 image: /assets/content/2013-01-29-ots-and-the-berlin-geekettes-hackathon/berlin-geekettes-hackathon_long.png 
