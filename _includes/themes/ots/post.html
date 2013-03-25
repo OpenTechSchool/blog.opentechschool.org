@@ -1,7 +1,9 @@
 {% if page.author %}
   {% assign author = site.authors[page.author] %}
+   {% assign author_id = page.author %}
 {% else %}
   {% assign author = site.authors[site.default_author] %}
+  {% assign author_id = site.default_author %}
 {% endif %}
 
 <div class="container_blog">
@@ -10,7 +12,7 @@
   {% if author.link %}
     <a href="{{author.link">{{author.name}}</a>
   {% else %}
-    {{ author.name }} 
+      <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
   {% endif %}
     &middot;    
     {{ page.date | date_to_long_string }}
@@ -23,7 +25,20 @@
 
 		{% include mailinglist_signup.html %}
 	{% endif %}
-	
+
+	<div id="the_author" class="team_list">
+		<h2><span>About the Author</span></h2>
+		<div class="left">
+			{% if author.image %}
+				<img src="{{author.image}}" >
+			{% endif %}
+
+			<h3 id="{{author_id}}">{{author.name}}</h3>
+			<p>{{author.about}}</p>
+			<p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
+		</div>
+	</div>
+
 	<div id="related">
 		<h2><span>Related Posts</span></h2>
 	

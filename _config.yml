@@ -27,34 +27,50 @@ authors:
     name: Aleks
     gplus: 110892884103962638885
     email: aleks at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/aleks.jpg
+    about: is the community manager of Co.Up, the coworking space where it all began. At the OpenTechSchool she helps with organising events and as a magician with words is in charge of copy-editing.
   amelie:
     name: "Amélie Anglade"
     gplus: 113881124006632726148
     email: amelie at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/amelie.jpg
+    about: is Software Engineer at Soundcloud and Tech Ambassador of the Berlin Geekettes. For the OpenTechSchool she does public appearances, organises workshops (best known for python) and works at the long- and short-term strategies.
   bea:
     name: Beatrice Martini
     gplus: 117054742827125727334
     email: beatrice @ OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/beatrice.jpg
+    about: is Event Project Manager for the Open Knowledge Foundation. She contributes to the OpenTechSchool by in organising events and workshops, takes care about CI and public appereances.
   ben:
     name: "Benjamin Kampmann"
     gplus: 104898591568170720911
     email: ben at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/ben.jpg
+    about: is freelance Software Developer and Product Creator. Aside from helping with the organsation of workshops and events, he is part of the strategic team and author of many of the blueprints.
   duana:
     name: Duana Stanley
     gplus: 112209835624840039257
     email: duana at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/duana.jpg
+    about: is Software Developer at Soundcloud and initiator of the Learners-meetup concept. As such she is organising this and other OpenTechSchool events.
   gio:
     name: Giorgia Sambrotta
     gplus: 112468997622326549149
     email: giorgia at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/giorgia.jpg
+    about: is Web Designer at Delivery Hero. She is an active member behind the learners meetup format and organises OTS-Workshops on conferences and other external events.
   stefan:
     name: "Stefan Hoth"
     gplus: 111333123856542807695
     email: stefan at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/stefan.jpg
+    about: is a freelance Web- and Mobile-Software Developer. Aside from being co-author and -host of the Android-Workshops, he helps with his huge network of contacts in the industry and works on the long-term strategy.
   steven:
     name: "Steven Farlie"
     gplus: 102640147012798270594
     email: steven at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/steven.jpg
+    about: is a freelance Software Developer in Melbourne, Australia. After working with the Berlin OTS-Team and developing the great Social-Coding with Github-Workshop, he is now back in Australia to set up OTS there.
 
 default_author: aleks
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
