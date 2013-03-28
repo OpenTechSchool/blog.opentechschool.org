@@ -9,6 +9,8 @@ image: /assets/content/2013-03-26-opening-hardware/hic_sunt_dracones.jpg
 image_alt: the lower case of a laptop with a sign 'no userserviceable parts! Hic sunt dracones'
 ---
 {% include JB/setup %}
+![the lower case of a laptop with a sign 'no userserviceable parts! Hic sunt dracones'](/assets/content/2013-03-26-opening-hardware/hic_sunt_dracones.jpg)
+
 # Dear handy people,
 
 OpenTechSchool has held many good coding workshops but not so many hardware-related ones. We would like to change that by starting with a very simple and beginner-friendly workshop about opening (mostly mobile) hardware: laptops, mobile phones, etc.
