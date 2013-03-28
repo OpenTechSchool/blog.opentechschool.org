@@ -34,7 +34,7 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
   <div class="post_content">
     {% if post.image %}
       <a class="header_image" href="{{ BASE_PATH }}{{ post.url }}">
-        <img alt="{{ post.title|escape }}" src="{{ post.image }}" />
+        <img alt="{% if post.image_alt %}{{ post.image_alt|escape }} {% else %}{{ post.title|escape }}{% endif %}" src="{{ post.image }}" />
       </a>
     {% endif %}
     {% if post.teaser %}
