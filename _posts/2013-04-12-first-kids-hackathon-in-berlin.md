@@ -20,4 +20,6 @@ The Kids Hackahton will take place Sunday, April 28th 2013 from 10:00 a.m. at [I
 
 Or if you want to help us coach the kids, [register here](https://docs.google.com/spreadsheet/viewform?formkey=dEd0TTlVbTNZRElpZGpSRVJWVHVNQlE6MQ) and come to the [next prepration meetup](http://www.meetup.com/opentechschool-berlin/events/112901762/).
 
+You can find the corresponding press releases including the flyer here in [English](/assets/content/kids-hackathon/KidsHackathon-Berlin-PressreleaseEnglish-12April2013.pdf) and [German](/assets/content/kids-hackathon/KidsHackathon-Berlin-PressreleaseDeutsch-12April2013.pdf).
+
 
