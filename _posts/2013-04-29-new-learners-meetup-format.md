@@ -20,7 +20,7 @@ skills by being a coach.
 
 The new format we will try:
 1. Welcome and introduction to coaches - what can you help someone with?
-2. 15 minute scheduled talk. The talks are aimed so that everyone can get something out of it, no matter what their level of experience or programming language.
+2. 15 minute scheduled talk - the talks are aimed so that everyone can get something out of it, no matter what their level of experience or programming language.
 3. A "mini barcamp" - anyone can propose a topic they want to discuss or get
 help with and we organise ourselves into discussion groups or pairs. At the end we get
 together as a group and summarised what we discussed.
