@@ -19,6 +19,7 @@ The OpenTechSchool movement and initiatives will essentially stay the same. We c
 But that also means that anybody can [join the the foundation](https://docs.google.com/a/opentechschool.org/spreadsheet/viewform?formkey=dGYycmhYal9SSW1WRUdQcUhUSk9FYWc6MQ#gid=0) as a member and support us by doing so with a 2€ monthly membership fee. Notice that as before, no membership will be required to take part in our activities, whether as a coach or as a learner. All our workshops and events are still free for everyone to attend.
 
 If you want to support us even further you also now accept donations.
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DWWZRJAN8C9DE">
