@@ -27,10 +27,12 @@ together as a group and summarised what we discussed.
 
 This meetup's scheduled talk will be:
 
-# Testing, testing 123..
+# Testing, testing 123... with Benjamin Kampmann
 How do developers test their code?
 What is a unit test? What other kinds of tests are there?
 What is test driven development?
+
+Signup for the meetup [here](http://www.meetup.com/opentechschool-berlin/events/116981172/)
 
 If you have an idea for a talk you'd like to hear or give, [please submit an issue to our github repository](https://github.com/OpenTechSchool/learners-meetup-berlin)
 
