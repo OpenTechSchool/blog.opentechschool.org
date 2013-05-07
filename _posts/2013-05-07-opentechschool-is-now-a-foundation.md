@@ -5,9 +5,12 @@ description: ""
 category: 
 tags: ['opentechschool', 'foundation', 'announcement', 'membership', 'donation']
 author: amelie
-image: "TOADD"
+teaser: "This is it! We are excited to announce that **OpenTechSchool is now official a Foundation**, more precisely a \"gemeinütziger e.V.\" — a non-profit foundation under German law."
+image: /assets/content/2013-05-07-foundation/photogrid.png
 ---
 {% include JB/setup %}
+
+![Team Berlin intiating the Foundation](/assets/content/2013-05-07-foundation/photogrid.png)
 
 This is it! We are excited to announce that **OpenTechSchool is now official a Foundation**, more precisely a "gemeinütziger e.V." — a non-profit foundation under German law.
 
