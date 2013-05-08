@@ -4,13 +4,13 @@ title: "Join us at Codemotion"
 description: ""
 category: 
 tags: ['codemotion', 'conference', 'talk', 'education', 'workshop', 'python']
-author: Rachel Uwa
+author: amelie
 teaser: "OpenTechSchool will be a part of the first annual Codemotion Berlin tech conference May 9-11. The entire conference takes place over the course of three days-- one day of workshops (Wearables/Arduino/GLSL Shaders etc.) and two days of conference (including Hard & Soft(ware) hackathon, mini-game jam, labs, makers- and start-up- areas as well).  The focus of the conference is Technology-- in all its glory-- both hardware and software, technical and creative. Tracks include web, mobile, big data, makers and creative."
-image: /assets/content/TOADD
+image: /assets/content/2013-05-08-codemotion/codemotion_berlin.jpg
 ---
 {% include JB/setup %}
 
-![Codemotion banner](/assets/content/TOADD)
+![Codemotion banner](/assets/content/2013-05-08-codemotion/codemotion_berlin.jpg)
 
 OpenTechSchool will be a part of the first annual Codemotion Berlin tech conference May 9-11. The entire conference takes place over the course of three days -- one day of workshops (Wearables/Arduino/GLSL Shaders etc.) and two days of conference (including Hard & Soft(ware) hackathon, mini-game jam, labs, makers- and start-up- areas as well).  The focus of the conference is Technology -- in all its glory -- both hardware and software, technical and creative. Tracks include web, mobile, big data, makers and creative.
 
