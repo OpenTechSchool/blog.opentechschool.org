@@ -76,7 +76,12 @@ authors:
     email: steven at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/steven.jpg
     about: is a freelance Software Developer in Melbourne, Australia. After working with the Berlin OTS-Team and developing the great Social-Coding with Github-Workshop, he is now back in Australia to set up OTS there.
-
+  robert:
+    name: "Robert Lehmann"
+    gplus: 102202414125507005118
+    email: robert at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/robert.jpg
+    about: Robert is a software developer, Python Coach and part of the Berlin OpenTechSchool Team. Outside of his teaching at University in Potsdam, he also went for an internship with Google to Zurich and took OTS with him to implement it there.
 default_author: aleks
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
