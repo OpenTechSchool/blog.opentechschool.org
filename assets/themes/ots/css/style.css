@@ -201,6 +201,29 @@ h2 span {
   padding: 0;
 }
 
+img.thumb {
+  margin: 0 5px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+img.team {
+  margin: 0 5px;
+  max-width: 200px;
+  border-radius: 100%;
+}
+
+img.left {
+  float: left;
+}
+  
+img.right{
+  float: right;
+}
+
+.blog-content {
+  clear: both;
+}
 
 /* List of OTS events, extends float list. */
 
