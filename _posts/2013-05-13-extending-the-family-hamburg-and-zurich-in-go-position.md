@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Extending the family - Hamburg and Zurich in go position."
+title: "Extending the family - Hamburg and Zurich in go position"
 description: ""
+teaser: "After the successful launch of [OpenTechSchool Australia](http://www.opentechschool.org/melbourne/), we are very happy to announce another two local teams joining the always extending OpenTechSchool movement: [Hamburg](http://www.opentechschool.org/hamburg/) and [Zurich](http://www.opentechschool.org/zurich/). And not only are the kick-off events already set up, no the first workshops and events are on schedule in those cities already, too. "
 category: 
 tags: ['berlin', 'hamburg', 'zurich', 'python', 'kick-off']
 author: ben
