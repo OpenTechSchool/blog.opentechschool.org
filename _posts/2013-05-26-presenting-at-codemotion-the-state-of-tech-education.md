@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "Presenting at Codemotion"
+title: "Presenting at Codemotion: the state of Tech Education"
 description: ""
 category: 
-tags: []
+tags: ["presentation", "tech education", "berlin"]
 
+teaser: "Actually we wanted to make a co-hosted talk with a few other tech learning inititatives at this years [Codemotion in Berlin](http://berlin.codemotionworld.com/), but when we learnt they were unable to participate, we had to restructure [our talk](http://opentechschool.github.io/slides/presentations/the-state-of-tech-education/) and the topics to talk about. Though a little shy first, we decided to take this opportunity and, after talking about the lastest evolvements in the tech education space and presenting the OpenTechSchool and what we do, talk about something we've been pondering about for a while: **How to make sure learning becomes an on-going process and take a peak into the future plans of the OpenTechSchool**."
+
+image: /assets/content/the-state-of-tech-education.png
 author: ben
 ---
 {% include JB/setup %}
+
+![The state of Tech Education](/assets/content/the-state-of-tech-education.png)
+
+Actually we wanted to make a co-hosted talk with a few other tech learning inititatives at this years [Codemotion in Berlin](http://berlin.codemotionworld.com/), but when we learnt they were unable to participate, we had to restructure [our talk](http://opentechschool.github.io/slides/presentations/the-state-of-tech-education/) and the topics to talk about. Though a little shy first, we decided to take this opportunity and, after talking about the lastest evolvements in the tech education space and presenting the OpenTechSchool and what we do, talk about something we've been pondering about for a while: **How to make sure learning becomes an on-going process and take a peak into the future plans of the OpenTechSchool**.
+
+Fortunately, our friends at [SourceFabric](http://www.sourcefabric.org/) recorded the audio, so we can give you a bit more than just some really beautiful but not that informative slides. And we stichted those two together using the great [Popcorn.js library](http://popcornjs.org/) to sync the slides with the audio. So just press play on the soundcloud player beyond and follow our presentation.
+
+(Tip: if you are only interested in that future-part of the talk, feel free to skip to minute 28.)
+
 
 {% raw %}
 <div id="popcorn-presentation" style="height: 400px; width: 100%">
