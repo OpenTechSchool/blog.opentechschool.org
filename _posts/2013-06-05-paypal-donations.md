@@ -13,7 +13,7 @@ author: stefan
 
 The great thing about running a non-profit organization with a lot of dedicated volunteers supported by companies and co-working spaces is that there's usually little money needed. But we don't kid ourselves that there *is* a need for a solid financial basis. That is the reason why [we created the foundation under German law](/2013/05/opentechschool-is-now-a-foundation.html) and allowed supporters to become a member or give donations.
 
-Once we announced this possibility we received requests for electronic payments - even from as far as New York, USA. We started looking for solutions and one that quickly came to mind was PayPal. We asked PayPal if they are willing to accept us under their non-profit program and they made us an offer we couldn't decline.
+Once we announced this possibility we received requests for electronic payments - even from as far as New York, USA. We started looking for solutions and one that quickly came to mind was PayPal. We asked PayPal if they are willing to accept us [in their non-profit program](https://www.paypal.com/webapps/mpp/donations) and they made us an offer we couldn't decline.
 
 So, we are happy to present you the **no-fees-involved PayPal donate button** for OpenTechSchool:
 
