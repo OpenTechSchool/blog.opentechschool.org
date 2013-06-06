@@ -88,6 +88,12 @@ authors:
     email: robert at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/robert.jpg
     about: Robert is a software developer, Python Coach and part of the Berlin OpenTechSchool Team. Outside of his teaching at University in Potsdam, he also went for an internship with Google to Zurich and took OTS with him to implement it there.
+  martin:
+    name: "Martin Stadler"
+    gplus:
+    email: martin at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/martin.jpg
+    about: Martin is a freelance JavaScript app and web frontend developer in Berlin. At OpenTechSchool he focuses on JavaScript workshops and the Learners Meetup.
 default_author: aleks
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
