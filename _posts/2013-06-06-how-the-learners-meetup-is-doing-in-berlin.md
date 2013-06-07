@@ -3,7 +3,7 @@ layout: post
 title: "How is the Learners Meetup doing in Berlin? Pretty good!"
 description: ""
 category:
-tags: ['beginners']
+tags: ['beginners', 'berlin']
 author: martin
 teaser: "In April we [introduced a new Learners Meetup format](/2013/04/new-learners-meetup-format.html) and we're really happy how things are developing.
 

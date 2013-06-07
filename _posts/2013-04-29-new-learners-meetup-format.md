@@ -4,7 +4,7 @@ title: "Berlin: New Learners Meetup Format"
 description: ""
 category:
 teaser: "We're trying a new format for the monthly Learners Meetup!"
-tags: ['beginners']
+tags: ['beginners', 'berlin']
 author: duana
 ---
 {% include JB/setup %}
