@@ -31,6 +31,8 @@ What would you like to talk about?
 
 ![Mingling](/assets/content/2013-06-06-mingling.jpg)
 
+Visit the [meetup.com](http://www.meetup.com/opentechschool-berlin/) pages of the [last](http://www.meetup.com/opentechschool-berlin/events/116981172/) [two](http://www.meetup.com/opentechschool-berlin/events/121203582/) events for participants' comments and some more pictures.
+
 We will continue this and come up with more ideas how to connect people. Next step is to get participants more involved in organizing the event.
 
 Check the [Berlin page](/berlin/) for the next meetup which should be 3 July. Hope to see you there!
