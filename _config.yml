@@ -198,3 +198,47 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+prose:
+ siteurl: "http://blog.opentechschool.org"
+ media: "assets/content"
+ metadata:
+  _posts:
+    - name: "categories"
+      field:
+        element: "hidden"
+        value:
+          - "post"
+    - name: "layout"
+      field:
+        element: "hidden"
+        value:
+          - "post"
+    - name: "author"
+      field:
+        element: "select"
+        label: "Author"
+        placeholder: "Select the Author"
+        options:
+          - name: "Aleks"
+            value: "aleks"
+          - name: "Beatrice"
+            value: "bea"
+          - name: "amelie"
+            value: "Amélie"
+          - name: "Ben"
+            value: "ben"
+          - name: "Duana"
+            value: "duana"
+          - name: "Giorgia"
+            value: "gio"
+          - name: "Nicolai"
+            value: "nicolai"
+          - name: "Stefan"
+            value: "stefan"
+          - name: "Steven"
+            value: "steven"
+          - name: "Rachel"
+            value: "rachel"
+          - name: "Robert"
+            value: "robert"
+        selected: "aleks"
