@@ -12,7 +12,7 @@ OpenTechSchool is becoming increasingly global, and this weekend has been a mile
 
 ### Melbourne
 
-Melbourne premiered the [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) workshop in the wonderful *Electron Workshop* this time around.  One learner commented, “the material was excellent, so were the helpers.”  Plus, they had cookies.
+Melbourne premiered the [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) workshop in the wonderful *Electron Workshop* this time around.  An interesting twist:  They conducted the event in a split fashion, with learners picking from either the new data processing material or the beginners course.  One learner commented, “the material was excellent, so were the helpers.”  Plus, they had cookies.
 
 ### Zurich
 
