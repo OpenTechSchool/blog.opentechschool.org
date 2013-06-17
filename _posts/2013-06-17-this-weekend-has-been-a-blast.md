@@ -16,8 +16,12 @@ Melbourne premiered the [Introduction to Data Processing with Python](http://ope
 
 ### Zurich
 
+![Colab, Zurich](/assets/content/2013-06-17-weekend/zurich.jpg)
+
 Zurich had its first OpenTechSchool workshop ever, the time-tested [Python for beginners](http://opentechschool.github.io/python-beginners/).  The Colab café served as a great location on that sunny Saturday.  Participants and coaches alike were eager to have more workshops in the future:  “Good coaches, cool location. Looking forward to the next opentechschool workshop!”  And it was one of the few Zurich events which actually could get hold of a few bottles of Club Mate.
 
 ### Tel Aviv
+
+![Hamifal, Tel Aviv](/assets/content/2013-06-17-weekend/telaviv.jpg)
 
 Tel Aviv has been jumpstarted by our great core member, Ben, in just about a week.  The city in Isreal, one of our few locations with an actual coastline, kicked off with an Introduction to programming with Python.  “I wish I could learn this way every weekend,” one participant commented.
