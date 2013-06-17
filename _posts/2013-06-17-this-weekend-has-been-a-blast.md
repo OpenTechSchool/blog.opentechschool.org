@@ -24,4 +24,4 @@ Zurich had its first OpenTechSchool workshop ever, the time-tested [Python for b
 
 ![Hamifal, Tel Aviv](/assets/content/2013-06-17-weekend/telaviv.jpg)
 
-Tel Aviv has been jumpstarted by our great core member, Ben, in just about a week.  The city in Isreal, one of our few locations with an actual coastline, kicked off with an Introduction to programming with Python.  “I wish I could learn this way every weekend,” one participant commented.
+Tel Aviv has been jumpstarted by our great core member, Ben, in just about a week.  The city in Isreal, our first chapter in Asia, kicked off with an *Introduction to programming with Python.*  “I wish I could learn this way every weekend,” one participant commented.
