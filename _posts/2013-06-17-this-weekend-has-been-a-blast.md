@@ -1,11 +1,18 @@
 ---
+published: true
 layout: post
 title: "This weekend has been a blast!"
 description: ""
-category: 
-tags: ["python", "workshop"]
+category: null
+tags: 
+  - python
+  - workshop
+  - melbourne
+  - zurich
+  - "tel-aviv"
 author: robert
 ---
+
 {% include JB/setup %}
 
 OpenTechSchool is becoming increasingly global, and this weekend has been a milestone to that end.  We had [Python workshops](http://python.opentechschool.org/) in [three different locations](https://twitter.com/OpenTechSchool/status/345797315841368064):  [Melbourne](http://www.meetup.com/OpenTechSchool-Melbourne/events/120751752/), [Zurich](http://www.meetup.com/opentechschool-zurich/events/116008182/), and [Tel Aviv](http://www.meetup.com/opentechschool-tel-aviv/events/123856622/).
