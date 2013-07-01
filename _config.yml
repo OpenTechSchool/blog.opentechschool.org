@@ -47,6 +47,12 @@ authors:
     email: ben at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/ben.jpg
     about: is freelance Software Developer and Product Creator. Aside from helping with the organsation of workshops and events, he is part of the strategic team and author of many of the blueprints.
+  diana:
+    name: Diana Knodel
+    gplus: 114834784518588736271
+    email: diana at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/diana.jpg
+    about: studied informatiks in relation to psychologie and works in IT for years. Apps are her passion, which is also why she organised and hosted the first AppSummerCamp with the OpenTechSchool in Hamburg, of which Team she is an important part.
   duana:
     name: Duana Stanley
     gplus: 112209835624840039257
@@ -233,6 +239,8 @@ prose:
             value: "Amélie"
           - name: "Ben"
             value: "ben"
+          - name: "Diana"
+            value: "diana"
           - name: "Duana"
             value: "duana"
           - name: "Giorgia"
