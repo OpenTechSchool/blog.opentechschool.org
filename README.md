@@ -6,7 +6,7 @@ The blog is hosted on github using [jekyllbootstrap](http://jekyllbootstrap.com)
 ## Running locally
 Just pull the latest updates and run
 
-    jekyll --server --auto
+    jekyll serve --watch
 
 and you'll have the server running locally on port 4000
 
