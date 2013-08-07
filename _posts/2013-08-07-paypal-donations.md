@@ -3,7 +3,7 @@ layout: post
 title: "We are supported by PayPal"
 description: ""
 category: 
-tags: ["learning space", "longer programme"]
+tags: ["global", "partners", "berlin"]
 
 author: stefan
 ---
@@ -15,7 +15,7 @@ The great thing about running a non-profit organization with a lot of dedicated 
 
 Once we announced this possibility we received requests for electronic payments - even from as far as New York, USA. We started looking for solutions and one that quickly came to mind was PayPal. We asked PayPal if they are willing to accept us [in their non-profit program](https://www.paypal.com/webapps/mpp/donations) and they made us an offer we couldn't decline.
 
-So, we are happy to present you the **no-fees-involved PayPal donate button** for OpenTechSchool:
+So, we are happy to present you the **zero-fee PayPal donate button** for OpenTechSchool:
 
 {% raw %}
 <div style="text-align:center; margin-bottom: 20px;">
