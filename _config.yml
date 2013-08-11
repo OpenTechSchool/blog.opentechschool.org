@@ -35,6 +35,11 @@ authors:
     email: amelie at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/amelie.jpg
     about: is Software Engineer at Soundcloud and Tech Ambassador of the Berlin Geekettes. For the OpenTechSchool she does public appearances, organises workshops (best known for python) and works at the long- and short-term strategies.
+  angus:
+    name: "Angus Gratton"
+    email: angus at opentechschool dot org
+    image: http://www.opentechschool.org/images/team/angus.jpg
+    about: Angus is a "full stack" software developer who has worked on a variety of software, from desktop and web applications to scientific real time control systems. Co-organiser of OpenTechSchool Melbourne.
   bea:
     name: Beatrice Martini
     gplus: 117054742827125727334
@@ -237,6 +242,8 @@ prose:
             value: "bea"
           - name: "amelie"
             value: "Amélie"
+          - name: "Angus"
+            value: "angus"
           - name: "Ben"
             value: "ben"
           - name: "Diana"
