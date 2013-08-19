@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "OpenTechSchool Berlin goes full time: announcing the first Hackership programme"
-author: ben
+authors:
+  - amelie
+  - ben
 teaser: "We've already talked about us investigating on in-depth programmes before, but now it is official: The OpenTechSchool in Berlin will offer a full-time learning Programme called Hackership. Similar to the programme the Hacker School in New York is running, Hackership is a 4-days-per-week self-directed peer-learning programme going for several weeks to become a better programmer."
 description: ""
 category: 
