@@ -1,15 +1,6 @@
 
-{% if page.authors %}
-  {% assign author_id = page.authors[0] %}
-{% else %}
-  {% if page.author %}
-      {% assign author_id = page.author %}
-  {% else %}
-      {% assign author_id = site.default_author %}
-  {% endif %}    
-{% endif %}
 
-{% assign author = site.authors[author_id] %}
+  
 
 <div class="container_blog">
   <h2 class="post_title"><span>{{ page.title }}</span></h2>
@@ -24,6 +15,13 @@
         {% endif %}
       {% endfor %}
     {% else %}
+      {% if page.author %}
+        {% assign author_id = page.author %}
+      {% else %}
+          {% assign author_id = site.default_author %}
+      {% endif %}    
+
+      {% assign author = site.authors[author_id] %}
       {% if author.link %}
         <a href="{{author.link">{{author.name}}</a>
       {% else %}

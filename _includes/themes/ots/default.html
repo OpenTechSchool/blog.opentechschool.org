@@ -34,11 +34,17 @@
     <meta property="og:description" content="{{ desc | escape }}"/>
     <meta property="twitter:description" content="{{ desc | escape }}"/>
 
-    {% if page.author %}
-      {% assign author = site.authors[page.author] %}
-    {% else %}
-      {% assign author = site.authors[site.default_author] %}
-    {% endif %}
+    {% if page.authors %}
+	  {% assign author_id = page.authors[0] %}
+	{% else %}
+	  {% if page.author %}
+	      {% assign author_id = page.author %}
+	  {% else %}
+	      {% assign author_id = site.default_author %}
+	  {% endif %}    
+	{% endif %}
+
+	{% assign author = site.authors[author_id] %}
 
 
     <meta name="author" content="{{ author.name }}">

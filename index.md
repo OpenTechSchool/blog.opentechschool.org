@@ -8,18 +8,6 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
 <div class="posts">
 {% for post in site.posts %}
 
-  {% if post.authors %}
-    {% assign author_id = post.authors[0] %}
-  {% else %}
-    {% if post.author %}
-      {% assign author_id = post.author %}
-    {% else %}
-      {% assign author_id = site.default_author %}
-    {% endif %}    
-  {% endif %}
-
-{% assign author = site.authors[author_id] %}
-
   <h2 class="post_title">
     <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </h2>
@@ -39,6 +27,14 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
       {% endfor %}
 
     {% else %}
+      {% if post.author %}
+        {% assign author_id = post.author %}
+      {% else %}
+          {% assign author_id = site.default_author %}
+      {% endif %}    
+
+      {% assign author = site.authors[author_id] %}
+
       {% if author.link %}
         <a href="{{author.link">{{author.name}}</a>
       {% else %}
