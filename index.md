@@ -8,24 +8,38 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
 <div class="posts">
 {% for post in site.posts %}
 
-  {% if post.author %}
-    {% assign author = site.authors[post.author] %}
-    {% assign author_id = post.author %}
-  {% else %}
-    {% assign author = site.authors[site.default_author] %}
-    {% assign author_id = site.default_author %}
-  {% endif %}
-
   <h2 class="post_title">
     <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </h2>
 
   <span class="post_meta">
 
-    {% if author.link %}
-      <a href="{{author.link">{{author.name}}</a>
+    {% if post.authors %}
+      {% for author_id in post.authors %}
+        {% assign author = site.authors[author_id] %}
+
+        {% if author.link %}
+          <a href="{{author.link">{{author.name}}</a>{% if forloop.last == false -%}, {% endif %}
+        {% else %}
+          <a href="/authors.html#{{author_id}}">{{ author.name }}</a>{% if forloop.last == false -%}, {% endif %}
+        {% endif %}
+        
+      {% endfor %}
+
     {% else %}
-      <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
+      {% if post.author %}
+        {% assign author_id = post.author %}
+      {% else %}
+          {% assign author_id = site.default_author %}
+      {% endif %}    
+
+      {% assign author = site.authors[author_id] %}
+
+      {% if author.link %}
+        <a href="{{author.link">{{author.name}}</a>
+      {% else %}
+        <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
+      {% endif %}
     {% endif %}
     &middot;    
     {{ post.date | date_to_long_string }}
