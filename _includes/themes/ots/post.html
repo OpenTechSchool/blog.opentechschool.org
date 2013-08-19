@@ -1,61 +1,94 @@
-{% if page.author %}
-  {% assign author = site.authors[page.author] %}
-   {% assign author_id = page.author %}
+
+{% if page.authors %}
+  {% assign author_id = page.authors[0] %}
 {% else %}
-  {% assign author = site.authors[site.default_author] %}
-  {% assign author_id = site.default_author %}
+  {% if page.author %}
+      {% assign author_id = page.author %}
+  {% else %}
+      {% assign author_id = site.default_author %}
+  {% endif %}    
 {% endif %}
 
+{% assign author = site.authors[author_id] %}
+
 <div class="container_blog">
-	<h2 class="post_title"><span>{{ page.title }}</span></h2>
+  <h2 class="post_title"><span>{{ page.title }}</span></h2>
   <span class="post_meta">
-  {% if author.link %}
-    <a href="{{author.link">{{author.name}}</a>
-  {% else %}
-      <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
-  {% endif %}
+    {% if page.authors %}
+      {% for author_id in page.authors %}
+        {% assign author = site.authors[author_id] %}
+        {% if author.link %}
+          <a href="{{author.link">{{author.name}}</a>{% if forloop.last == false -%}, {% endif %}
+        {% else %}
+          <a href="/authors.html#{{author_id}}">{{ author.name }}</a>{% if forloop.last == false -%}, {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% if author.link %}
+        <a href="{{author.link">{{author.name}}</a>
+      {% else %}
+          <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
+      {% endif %}
+    {% endif %}
     &middot;    
     {{ page.date | date_to_long_string }}
   </span>
-	  <div class="blog-content">
-		{{ content }}
-	  </div>
+    <div class="blog-content">
+    {{ content }}
+    </div>
 
-	{% if page.group_signup %}
-		{% assign group_title = page.group_title %}
-		{% assign group_name = page.group_name %}
+  {% if page.group_signup %}
+    {% assign group_title = page.group_title %}
+    {% assign group_name = page.group_name %}
 
-		{% include mailinglist_signup.html %}
-	{% endif %}
+    {% include mailinglist_signup.html %}
+  {% endif %}
 
-	<div id="the_author" class="team_list">
-		<h2><span>About the Author</span></h2>
-		<div class="left">
-			{% if author.image %}
-				<img src="{{author.image}}" >
-			{% endif %}
+  <div id="the_author" class="team_list">
+    {% if page.authors %}
+      <h2><span>About the Authors</span></h2>
+      {% for author_id in page.authors %}
+        {% assign author = site.authors[author_id] %}
+        <div class="{% cycle 'left', 'right' %}">
+          {% if author.image %}
+            <img src="{{author.image}}" >
+          {% endif %}
 
-			<h3 id="{{author_id}}">{{author.name}}</h3>
-			<p>{{author.about}}</p>
-			<p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
-		</div>
-	</div>
+          <h3 id="{{author_id}}">{{author.name}}</h3>
+          <p>{{author.about}}</p>
+          <p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
+        </div>
+      {% endfor %}
 
-	<div id="related">
-		<h2><span>Related Posts</span></h2>
-	
-		<ul class="posts">
-			{% for post in site.related_posts limit:3 %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
+    {% else %}
+      <h2><span>About the Author</span></h2>
+      <div class="left">
+        {% if author.image %}
+          <img src="{{author.image}}" >
+        {% endif %}
 
-	<div id="feedback">
-		<h2><span>Feedback</span></h2>
-		<div id="disqus_thread">
-		  {% include JB/comments %}
-	  </div>
-	</div>
-	
+        <h3 id="{{author_id}}">{{author.name}}</h3>
+        <p>{{author.about}}</p>
+        <p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
+      </div>
+    {% endif %}
+  </div>
+
+  <div id="related">
+    <h2><span>Related Posts</span></h2>
+  
+    <ul class="posts">
+      {% for post in site.related_posts limit:3 %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div id="feedback">
+    <h2><span>Feedback</span></h2>
+    <div id="disqus_thread">
+      {% include JB/comments %}
+    </div>
+  </div>
+  
 </div>
