@@ -2,16 +2,16 @@
 layout: post
 title: "OpenTechSchool at Kiwi PyCon"
 description: ""
-teaser: "Earlier this month I travlled to Auckland, New Zealand for Kiwi PyCon. I gave a talk entitled **Encouraging New Programmers: The OpenTechSchool Model**, and also organised a free workshop **Introduction to Data Processing with Python**.
+teaser: "Last month Angus from OTS Melbourne travelled to Auckland, New Zealand for Kiwi PyCon. He gave a talk entitled **Encouraging New Programmers: The OpenTechSchool Model**, and also organised a free workshop **Introduction to Data Processing with Python**.
 "
 tags: ["conferences", "outreach"]
 author: angus
 ---
 {% include JB/setup %}
 
-Earlier this month I travelled to Auckland, New Zealand for Kiwi PyCon. I spoke about OpenTechSchool and also organised a workshop.
+Last month I (Angus) travelled from Melbourne to Auckland, New Zealand for [Kiwi PyCon](http://nz.pycon.org/). I spoke about OpenTechSchool and also organised a workshop.
 
-{.center}![NZ PUG Logo](/assets/content/2013-09-18-kiwi-pycon/NZPUG_logo.png)
+{.center}![NZ PUG Logo](/assets/content/2013-10-08-kiwi-pycon/NZPUG_logo.png)
 
 The emphasis on beginner outreach throughout the conference was really strong. Before the main two days of the conference there was a dedicated tutorial day. A range of free tutorials were open to all interested participants - not just conference attendees.
 
