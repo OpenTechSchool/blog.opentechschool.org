@@ -2,6 +2,8 @@
 published: true
 layout: post
 title: "itlabszurich is go"
+teaser: "We are proud to announce our first programming workshop with kids was successful.  It was a brave experiment, a peek into new realms, and loads of fun."
+image: /assets/content/2013-09-12-itlabszurich/cards.jpg
 description: ""
 category: null
 tags:
