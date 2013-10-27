@@ -17,11 +17,11 @@ author: tobi
 
 Dortmund is one of the new outposts of the OpenTechSchool. On the 12th and 13th of october we had premiere with our first workshop.
 
-We started with JavaScript for absolute beginners (#jsfab) to teach people javascript. 25 learners had been found quickly. For this workshop we had 7 coaches (Ola, Leif, Hendrik, Georg, Lars, Dennis and me) to support the learners during their excercises. The location had been offered by the [StaendigeVertretung](http://www.staendigevertretungdortmund.de/), a coworking space, free of charge. 
+We started with JavaScript for absolute beginners (#jsfab) to teach people javascript. 21 learners had been found quickly. For this workshop we had 7 coaches (Ola, Leif, Hendrik, Georg, Lars, Dennis and me) to support the learners during their excercises. The location had been offered by the [StaendigeVertretung](http://www.staendigevertretungdortmund.de/), a coworking space, free of charge. 
 
 ![25 inquisitive learners](/assets/content/2013-10-28-jsfabdortmund/learners.jpg)
 
-The learners had been from different backgrounds, some had already been programming in other languages, while others had been totally new to programming. With a range from *20 to 45* years there was also a wide spread regarding age. It was nice to see that we had even eight female attendees. 
+The learners had been from different backgrounds, some had already been programming in other languages, while others had been totally new to programming. With a range from ~20 to ~45 years there was also a wide spread regarding age. It was nice to see that we had a female to male ratio of 10:11.  
 
 In the two days they were introduced to the basics of programming, like variables, types, operators, functions, control structures and loops. With those tools and provided with simplified apis they did some grapical rendering an animated html elements. Very fast the first smilies appeared, not only on the screens but also on the peoples faces. 
 
