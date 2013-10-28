@@ -26,6 +26,7 @@ The learners had been from different backgrounds, some had already been programm
 In the two days they were introduced to the basics of programming, like variables, types, operators, functions, control structures and loops. With those tools and provided with simplified apis they did some grapical rendering an animated html elements. Very fast the first smilies appeared, not only on the screens but also on the peoples faces. 
 
 ![Smilies](/assets/content/2013-10-28-jsfabdortmund/smilies.jpg)
+![Smilies on screen](/assets/content/2013-10-28-jsfabdortmund/smilie_laptop.png)
 
 Before lunch [Jan Lenhardt](http://twitter.com/janl) showed up to engage the people for getting into programming and to the OpenTechSchool community.
 
