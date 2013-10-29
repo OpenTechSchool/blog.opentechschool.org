@@ -16,4 +16,4 @@ What we need now are great ideas for workshops and coaches willing to host them 
 
 Oh, what a joy this is going to be!
 
-(Thanks to Simon Höher of [knowable.org](http://knowable.org) for taking [these awesome picture of the event, which the one on top was taken from.](https://www.facebook.com/media/set/?set=a.436415286440992.1073741825.116333648449159&type=1) )
+(Thanks to Simon Höher of [knowable.org](http://knowable.org) for taking [these awesome picture of the event, which the one on top was taken from.](https://www.facebook.com/media/set/?set=a.436415286440992.1073741825.116333648449159&amp;type=1) )
