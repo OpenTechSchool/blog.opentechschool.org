@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "JavaScript for absolute beginners, October 12-13th"
-teaser: "OTS Dortmund has recently kicked off their chapter with a JavaScript workshop weekend! ![25 inquisitive learners](/assets/content/2013-10-28-jsfabdortmund/learners.jpg)"
+teaser: "OTS Dortmund has recently kicked off their chapter with a JavaScript workshop weekend! ![21 inquisitive learners](/assets/content/2013-10-28-jsfabdortmund/learners.jpg)"
 image: 
 description: "A great first two day workshop teaching JavaScript for Dortmund"
 category:
@@ -17,11 +17,9 @@ author: tobi
 
 Dortmund is one of the new outposts of the OpenTechSchool. On the 12th and 13th of October we have premiered with our first workshop!
 
-We started with JavaScript for absolute beginners (#jsfab) to teach people Javascript, and 21 learners quickly volunteered themselves to join us.
-For this workshop we had 7 coaches (Ola, Leif, Hendrik, Georg, Lars, Dennis and me) to support the learners during their exercises.
-The location had been graciously offered by the [StaendigeVertretung](http://www.staendigevertretungdortmund.de/), a co-working space, free of charge.
+We started with JavaScript for absolute beginners (#jsfab) to teach people Javascript, and 21 learners quickly volunteered themselves to join us. For this workshop we had nine coaches (Dennis, Georg, Hendrik, Lars, Leif, Mark, Mathias, Ola and me) to support the learners during their exercises. The location had been graciously offered by the [Ständige Vertretung](http://www.staendigevertretungdortmund.de/), a co-working space, free of charge. 
 
-![25 inquisitive learners](/assets/content/2013-10-28-jsfabdortmund/learners.jpg)
+![21 inquisitive learners](/assets/content/2013-10-28-jsfabdortmund/learners.jpg)
 
 The learners came from many different backgrounds - some had already been programming in other languages, while others were totally new to programming.
 With a range of roughly 20 to 45 years, there was also a wide spread regarding age.
