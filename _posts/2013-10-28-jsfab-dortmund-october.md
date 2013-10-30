@@ -33,7 +33,7 @@ The first smilies appeared very fast, not only on screens but also on people's f
 
 ![Smilies](/assets/content/2013-10-28-jsfabdortmund/smilies.jpg)
 
-On the first day before lunch, [Jan Lenhardt](http://twitter.com/janl) showed up to engage everyone towards getting into programming and into the OpenTechSchool community.
+On the first day before lunch, [Jan Lehnardt](http://twitter.com/janl) showed up to engage everyone towards getting into programming and into the OpenTechSchool community.
 
 During the rest of the day the first self-rendered graphs appeared.
 Attendees came up with quite creative approaches to many of the problems that they faced.
