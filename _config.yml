@@ -57,7 +57,7 @@ authors:
     gplus: 117248579384664003770
     email: diana at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/diana.jpg
-    about: has a background in computer science, psychology and educational research. She works as an IT Project Manager and is engaged in the startup scence in Hamburg. She loves to share her enthusiasm about tech and coding as a volunteer at OpenTechSchool, always trying to get more girls and women into tech.
+    about: has a background in computer science, psychology and educational research. She works as a Product Owner at XING and is engaged in the startup scence in Hamburg. She loves to share her enthusiasm about tech and coding as a volunteer at OpenTechSchool, always trying to get more girls and women into tech.
   duana:
     name: Duana Stanley
     gplus: 112209835624840039257
@@ -75,6 +75,12 @@ authors:
     gplus: 113311475711898082984
     email: nicolai at OpenTechSchool dot org
     about: is a Data Recovery Engineer and Cultural Anthropologist. He initiated the opening hardware workshop, is very hands-on and helps where he can.
+  philipp:
+    name: Philipp Knodel
+    gplus: 116233625155183238667
+    email: phil at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/philipp.jpg
+    about: has a background in political science focusing on international educatiion policy. He stumbled into a Ruby on Rails course in San Francisco. And because there weren't many tech workshops for beginners in Hamburg he started the OpenTechSchool Hamburg.
   stefan:
     name: "Stefan Hoth"
     gplus: 111333123856542807695
