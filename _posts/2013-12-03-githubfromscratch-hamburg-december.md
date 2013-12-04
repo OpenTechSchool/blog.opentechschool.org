@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "GitHub from Scratch - „I fork you and you fork me“"
-teaser: "OTS Hamburg has created a new workshop: Github from Scratch. On November 30th 2013  the workshop Github from Scratch was organized in Hamburg. 35 Learners and Coaches attended, learned together and had lots of fun."
+teaser: "OTS Hamburg has created a new workshop: Github from Scratch. On November 30th 2013 the workshop Github from Scratch was organized in Hamburg. 35 Learners and Coaches attended, learned together and had lots of fun."
 description: "A great one day workshop teaching Github from Scratch"
 category:
 tags:
