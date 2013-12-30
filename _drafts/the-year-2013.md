@@ -17,7 +17,7 @@ image: http://blog.opentechschool.org/assets/content/2013-12-30-year-in-review.j
 ---
 {% include JB/setup %}
 
-![It has been a colorful year](/assets/content/2013-12-30-year-in-review.jpg)
+![It has been a colorful year](http://blog.opentechschool.org/assets/content/2013-12-30-year-in-review.jpg)
 
 Twenty thirteen. The first full year after it started in April 2012. And what a year it was. It was a truly great year for OpenTechSchool. Let's take a short look back on what happened this year and take a small peak into the future and what is yet to come – which is at least as exciting.
 
