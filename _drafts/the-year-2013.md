@@ -13,7 +13,7 @@ tags:
 authors:
   - ben
   - rachel
-image: /assets/content/2013-12-30-year-in-review.jpg
+image: http://blog.opentechschool.org/assets/content/2013-12-30-year-in-review.jpg
 ---
 {% include JB/setup %}
 
