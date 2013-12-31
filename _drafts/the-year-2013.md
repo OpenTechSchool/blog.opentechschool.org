@@ -13,19 +13,19 @@ tags:
 authors:
   - ben
   - rachel
-image: http://blog.opentechschool.org/assets/content/2013-12-30-year-in-review.jpg
+image: /assets/content/2013-12-30-year-in-review.jpg
 ---
 {% include JB/setup %}
 
-![It has been a colorful year](http://blog.opentechschool.org/assets/content/2013-12-30-year-in-review.jpg)
+![It has been a colorful year](/assets/content/2013-12-30-year-in-review.jpg)
 
 2013. The first full-year after it all began in April of 2012. And what a year it has been-- a truly great one for OpenTechSchool. Let's take a short look back on what has happened this year and a small peak into the future at what is yet to come– which promises to be at least as exciting, if not more so.
 
-We started the year off with some formalities. On January 5th, a [few of us came together](http://blog.opentechschool.org/2013/05/opentechschool-is-now-a-foundation.html) to officially initiate the OpenTechSchool Foundation – the legal and liable entity of our organisation. At the same time, on the other side of the world, our dear friend Steven Farlie established the third chapter of OpenTechSchool.After Berlin and Stockholm, Melbourne joined as the third local team – and the first one outside of Europe. 
+We started the year off with some formalities. On January 5th, a [few of us came together](/2013/05/opentechschool-is-now-a-foundation.html) to officially initiate the OpenTechSchool Foundation – the legal and liable entity of our organisation. At the same time, on the other side of the world, our dear friend Steven Farlie established the third chapter of OpenTechSchool.After Berlin and Stockholm, Melbourne joined as the third local team – and the first one outside of Europe. 
 
 ### More chapters
 
-![Social Coding in Melbourne](http://blog.opentechschool.org/assets/content/2013-08-11-social-coding-global/social-1.jpg)
+![Social Coding in Melbourne](/assets/content/2013-08-11-social-coding-global/social-1.jpg)
 
 Throughout the course of the year, the movement grew. Other chapters joined, initiated by Berlin team members and community members outside. As of this writing, almost twelve months later, we have teams active in [Berlin](http://www.opentechschool.org/berlin/), [Brussels](http://www.opentechschool.org/brussels/), [Dortmund](http://www.opentechschool.org/dortmund/), [Hamburg](http://www.opentechschool.org/hamburg/), [Melbourne](http://www.opentechschool.org/melbourne/), [Nairobi](http://www.opentechschool.org/nairobi/), [Ramallah](http://www.opentechschool.org/ramallah/), [Stockholm](http://www.opentechschool.org/stockholm/), [Tel-Aviv](http://www.meetup.com/opentechschool-tel-aviv/) and [Zurich](http://www.opentechschool.org/zurich/). I, personally, know of at least two more endeavors, in London and RheinMain, which are planning to join us very soon. A total of twelve chapters on four continents – in one year. Not too shabby.
 
@@ -33,9 +33,9 @@ With a number of new chapters, our outreach has also grown. We are - as of now -
 
 ### More workshops
 
-![Kids Hackathon](http://blog.opentechschool.org/assets/content/2013-04-12-kids-hackathon-poster.png)
+![Kids Hackathon](/assets/content/2013-04-12-kids-hackathon-poster.png)
 
-2013 saw the likes of several new events such as the [Kids Hackathon](http://blog.opentechschool.org/2013/04/first-kids-hackathon-in-berlin.html), which OpenTechSchool co-organised with Hackidemia this year in Berlin, the [IT-Student Labs](http://blog.opentechschool.org/2013/01/announcing-student-labs-in-berlin.html) in [Zurich](http://blog.opentechschool.org/2013/09/zurich-kids-education.html) and Berlin, the [App Summer Camp](http://blog.opentechschool.org/2013/07/app-summer-camp-in-hamburg-it-was-awesome.html) for teenage Girls that our Hamburg Team sucessfully organised as well as our [regular Learners Meetups](http://blog.opentechschool.org/2013/06/how-the-learners-meetup-is-doing-in-berlin.html). Of course, along the way, new learning material has also been added to the portfolio. As our newly created overview page shows, we've created another five workshops completely from scratch this year. 
+2013 saw the likes of several new events such as the [Kids Hackathon](/2013/04/first-kids-hackathon-in-berlin.html), which OpenTechSchool co-organised with Hackidemia this year in Berlin, the [IT-Student Labs](/2013/01/announcing-student-labs-in-berlin.html) in [Zurich](/2013/09/zurich-kids-education.html) and Berlin, the [App Summer Camp](/2013/07/app-summer-camp-in-hamburg-it-was-awesome.html) for teenage Girls that our Hamburg Team sucessfully organised as well as our [regular Learners Meetups](/2013/06/how-the-learners-meetup-is-doing-in-berlin.html). Of course, along the way, new learning material has also been added to the portfolio. As our newly created overview page shows, we've created another five workshops completely from scratch this year. 
 
 For those interested in more numbers, the global OpenTechSchool **has hosted 192 events this year alone, of which 137 where hands-on and workshop focused,** empowering a total of 3.700 participants to learn more about coding and technology (2.087 at the hands-on events respectively). But that isn't all.Aside from adding new materials, and trying more formats for even the younger crowds (as mentioned earlier), OpenTechSchool Berlin has also been exploring how learning can continue after the first weekend workshop.
 
@@ -48,7 +48,7 @@ From this, we've developed two new formats: the first being the continuous learn
 
 The other program we've developed is [Hackership](http://www.hackership.org), a full-time code learning programme and masterclass for experienced developers who want to acquire new skills or get better at what they already do. The first experimental Batch ended about two weeks ago and the results are very promising. It is possible to transfer our model of an inclusive, welcoming and friendly learning environment to learning advanced topics, too. And it's the most productive and efficient way to learn we've seen thus far. 
 
-Of course there has been more: [We've created plenty more slides](http://opentechschool.github.io/slides/), went to and spoke [at](http://blog.opentechschool.org/2013/05/join-us-at-codemotion.html) [various](http://blog.opentechschool.org/2013/05/presenting-at-codemotion-the-state-of-tech-education.html) [conferences](http://blog.opentechschool.org/2013/10/kiwi-pycon.html), were featured in [Year of Open Source](http://blog.opentechschool.org/2013/10/kiwi-pycon.html), started a knowledge base (didn't go so well) and an online forum (doing much better), [supported awesome initiatives](http://blog.opentechschool.org/2013/07/naitobi-dev-school.html) and [got great support](http://blog.opentechschool.org/2013/08/paypal-donations.html) ourselves.
+Of course there has been more: [We've created plenty more slides](http://opentechschool.github.io/slides/), went to and spoke [at](/2013/05/join-us-at-codemotion.html) [various](/2013/05/presenting-at-codemotion-the-state-of-tech-education.html) [conferences](/2013/10/kiwi-pycon.html), were featured in [Year of Open Source](/2013/10/kiwi-pycon.html), started a knowledge base (didn't go so well) and an online forum (doing much better), [supported awesome initiatives](/2013/07/naitobi-dev-school.html) and [got great support](/2013/08/paypal-donations.html) ourselves.
 
 ### Outlook
 
