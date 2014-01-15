@@ -21,7 +21,7 @@ image: /assets/content/2014-01-07-advocates.jpg
 
 ![Advocates are the wind driving hackership forward](/assets/content/2014-01-07-advocates.jpg)
 
-As you [already know](/2013/12/a-look-back-on-2013.html), the OpenTechSchool Berlin [is currently raising funds](http://www.indiegogo.com/projects/an-apprenticeship-for-hackers-a-hackership/) to create the first OpenTechSchool Learning Space and run – aside from its awesome free workshops at evenings and weekends – the [Hackership full-time code learning programme and master class for advanced programmers](http://www.hackership.org) there. And now, you can help raising these funds yourself as we are announcing the [Hackership Advocates Programme](http://www.opentechschool.org/hackership):
+As you [already know](/2013/12/a-look-back-on-2013.html), OpenTechSchool Berlin [is currently raising funds](http://www.indiegogo.com/projects/an-apprenticeship-for-hackers-a-hackership/) to create the first OpenTechSchool Learning Space and run – aside from its awesome free workshops at evenings and weekends – the [Hackership full-time code learning programme and master class for advanced programmers](http://www.hackership.org) there. And now, you can help raising these funds yourself as we are announcing the [Hackership Advocates Programme](http://www.opentechschool.org/hackership):
 
 Are you excited about the idea of a OpenTechSchool/Hackership community learning space? Do you want to help raise the visibility and funds for it? **Become an official [Hackership Advocate now](http://discourse.opentechschool.org/t/application-for-hackership-advocats-programme/407)**.
 
