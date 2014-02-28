@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: "What OpenTechSchool brought to Dortmund"
-description: ""
 tags:
   - itlabs
   - review
