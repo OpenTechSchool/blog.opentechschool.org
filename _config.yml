@@ -115,8 +115,14 @@ authors:
     name: "Tobias Struckmeier"
     gplus: 111067385310263861440
     email: tobi at OpenTechSchool dot org
-    image: 
+    image: http://www.opentechschool.org/images/team/tobias.jpg
     about: Tobi is a software developer living in Dortmund, Germany. At OpenTechSchool he tries to help where possible and applicable. Working on PHP and JavasScript for food and fun.
+  dennis:
+    name: "Dennis Wilson"
+    gplus: 
+    email: dennis at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/dennis.jpg
+    about: Dennis is living in Dortmund, Germany. When he is not working on a freelance software developer, he co-organizes the OpenTechSchool Dortmund, does some open source and speaks at conferences.
 default_author: aleks
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
