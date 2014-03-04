@@ -2,6 +2,8 @@
 published: true
 layout: post
 title: "What OpenTechSchool brought to Dortmund"
+teaser: "When I heard about OpenTechSchool the first time , I was very curious. What would this be all about?"
+description: "When I heard about OpenTechSchool the first time , I was very curious. What would this be all about?"
 tags:
   - itlabs
   - review
@@ -9,19 +11,6 @@ tags:
 authors:
   - dennis
 
-teaser: "When I heard about OpenTechSchool the first time , I was very curious. What would this be all about?
-
-### Nerdy Dortmund back in the Days
-
-You’ve to know, that I live in Dortmund ever since I can remember. Dortmund is a relatively large city, in middle of the German Ruhr-Area. Back then we were very famous for our football team, beer and the steel industry. Not exactly the best place to grow up in when you are out for computer science. To be honest you rarely had the chance to bounce into a fellow computer nerd at this time. Not even at “hotspots” where public internet access was available.
-"
-
-description: "When I heard about OpenTechSchool the first time , I was very curious. What would this be all about?
-
-### Nerdy Dortmund back in the Days
-
-You’ve to know, that I live in Dortmund ever since I can remember. Dortmund is a relatively large city, in middle of the German Ruhr-Area. Back then we were very famous for our football team, beer and the steel industry. Not exactly the best place to grow up in when you are out for computer science. To be honest you rarely had the chance to bounce into a fellow computer nerd at this time. Not even at “hotspots” where public internet access was available.
-"
 
 image: /assets/content/2014-02-17-ots-brought-to-dortmund/landmark-dortmund.jpg
 ---
