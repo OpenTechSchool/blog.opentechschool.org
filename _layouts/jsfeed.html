@@ -1,21 +1,21 @@
 blog_feed_loaded([
 {% if page.tag %}
-	{% for post in site.posts %}
-		{% if post.tags contains page.tag %}
-			{
-			  "title": "{{post.title|escape}}",
-			  "link": "{{post.url}}",
-			  "date": "{{ post.date | date_to_string }}"
-			},
-		{% endif %}
-	{% endfor %}
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+      {
+        "title": "{{post.title|escape}}",
+        "link": "{{post.url}}",
+        "date": "{{ post.date | date_to_string }}"
+      },
+    {% endif %}
+  {% endfor %}
 {% else %}
-	{% for post in site.posts %}
-		{
-		  "title": "{{post.title|escape}}",
-		  "link": "{{post.url}}",
-		  "date": "{{ post.date | date_to_string }}"
-		},
-	{% endfor %}
+  {% for post in site.posts %}
+    {
+      "title": "{{post.title|escape}}",
+      "link": "{{post.url}}",
+      "date": "{{ post.date | date_to_string }}"
+    },
+  {% endfor %}
 {% endif %}
  null])
