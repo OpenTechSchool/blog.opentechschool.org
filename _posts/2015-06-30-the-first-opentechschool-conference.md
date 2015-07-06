@@ -20,7 +20,7 @@ As you might have heard our friends from the [Dortmund chapter][] are hosting
 On August 15th they will host talks ranging from an *introduction to
 Evolutionary Algorithms*, over *queuing protocols* and *functional programming*
 to *diversity and women in Open Source.* And as if that wasn't enough, the next
-days follows – in good old OTS-Tradition – [a day of workshops][] and hands-on
+days follows – in good old OTS tradition – [a day of workshops][] and hands-on
 learning. **It's gonna be fab.**
 
 But this wouldn't be OpenTechSchool, if there wasn't an *extra effort taken to
@@ -33,11 +33,11 @@ top, if you need someone to look after your kid(s) during the conference,
 **there will be child care** (ping them). What more to ask for?
 
 
-Well, how about a free ticket? Hackership bought a few tickets to many and
-gives them away in a twitter contest: **show everyone what #OTSFamily looks
+Well, how about a free ticket? Hackership bought a few tickets too many and
+gives them away in a Twitter contest: **show everyone what #OTSFamily looks
 like or means to you** by June 10th and win one of three tickets. You can find
 all details on [how to enter and win in the blog post][win tickets].  Looking
-forward to amazing submission from the incredible Berlin crowd!
+forward to amazing submissions from the incredible OpenTechSchool crowd!
 
 If you have any other questions, you can reach the organising team of the
 conference directly [on slack][].
