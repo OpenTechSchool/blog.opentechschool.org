@@ -30,14 +30,7 @@ completely accessible venue with a guidance system for visually impaired, have
 vegetarian and vegan meal options, offer **student tickets, [community and
 diversity tickets][] and a discount for members of the OTS Foundation.** On
 top, if you need someone to look after your kid(s) during the conference,
-**there will be child care** (ping them). What more to ask for?
-
-
-Well, how about a free ticket? Hackership bought a few tickets too many and
-gives them away in a Twitter contest: **show everyone what #OTSFamily looks
-like or means to you** by June 10th and win one of three tickets. You can find
-all details on [how to enter and win in the blog post][win tickets].  Looking
-forward to amazing submissions from the incredible OpenTechSchool crowd!
+**there will be child care** (ping them).
 
 If you have any other questions, you can reach the organising team of the
 conference directly [on slack][].
@@ -46,5 +39,4 @@ conference directly [on slack][].
 [OTSConf]: https://otsconf.com/?utm_source=otsblog&utm_medium=blog&utm_campaign=first
 [a day of workshops]: http://blog.otsconf.com/post/121620705005/our-5-workshops?utm_source=otsblog&utm_medium=blog&utm_campaign=workshops%20link
 [community and diversity tickets]: http://blog.otsconf.com/post/121589262220/how-to-apply-for-community-and-diversity-tickets?utm_source=otsblog&utm_medium=blog&utm_campaign=diversityTicketsLink
-[win tickets]: http://blog.hackership.org/2015/06/Win-A-ticket-to-OTSConf.html?utm_source=otsblog&utm_medium=blog&utm_campaign=hsTickets
 [on slack]: https://otsconfchat.herokuapp.com/
