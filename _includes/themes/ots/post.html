@@ -74,7 +74,6 @@
 
   <div id="related">
     <h2><span>Related Posts</span></h2>
-  
     <ul class="posts">
       {% for post in site.related_posts limit:3 %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
@@ -82,11 +81,16 @@
     </ul>
   </div>
 
-  <div id="feedback">
-    <h2><span>Feedback</span></h2>
-    <div id="disqus_thread">
-      {% include JB/comments %}
-    </div>
-  </div>
-  
+  <div id='discourse-comments'></div>
+  <script type="text/javascript">
+    DiscourseEmbed = { discourseUrl: 'http://discourse.opentechschool.org/',
+                       discourseEmbedUrl: '{{ BASE_PATH }}{{ post.url }}' };
+
+    (function() {
+      var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+      d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+  </script>
+
 </div>
