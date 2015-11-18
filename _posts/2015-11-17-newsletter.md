@@ -44,7 +44,7 @@ fellow friends in other chapters are doing.
 It is scheduled for the 20th each month, as to include the contents of the
 latest [Community Call][] (which takes places around the 15th each month.)  If
 you have exciting content to share with the community at large, please approach
-us at [team.newsletter@][].
+us at [team.newsletter@opentechschool.org][].
 
 *([Image][] copyright by The British Library.)*
 
@@ -52,5 +52,5 @@ us at [team.newsletter@][].
 [blueprints]: http://www.opentechschool.org/handbooks/
 [Discourse]: http://discourse.opentechschool.org/
 [Community Call]: http://discourse.opentechschool.org/c/organising/community-call
-[team.newsletter@]: mailto:team.newsletter@opentechschool.org
+[team.newsletter@opentechschool.org]: mailto:team.newsletter@opentechschool.org
 [Image]: https://www.flickr.com/photos/britishlibrary/11117776764
