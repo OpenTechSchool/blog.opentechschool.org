@@ -3,7 +3,6 @@
 permalink: /:year/:month/:title.html 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -104,7 +103,7 @@ authors:
     gplus: 102202414125507005118
     email: robert at OpenTechSchool dot org
     image: http://www.opentechschool.org/images/team/robert.jpg
-    about: Robert is a software developer, Python Coach and part of the Berlin OpenTechSchool Team. Outside of his teaching at University in Potsdam, he also went for an internship with Google to Zurich and took OTS with him to implement it there.
+    about: Robert is a systems engineer and Python coach.  He took OpenTechSchool from Berlin to Zurich, where he now works for Google.
   martin:
     name: "Martin Stadler"
     gplus:
