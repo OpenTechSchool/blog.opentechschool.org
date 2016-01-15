@@ -16,4 +16,4 @@ We make this move because we wanted to join an organisation that supports us in 
 
 Finally, many of us come from other language communities and see a lot of value in collaborating instead of telling juvenile jokes about each other.
 
-The [Rust Berlin](http://www.meetup.com/Rust-Berlin/) meetup will still continue to exist and will host the irregular meetups with talks and other perojects.
+The [Rust Berlin](http://www.meetup.com/Rust-Berlin/) meetup will still continue to exist and will host the irregular meetups with talks and other projects.
