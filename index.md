@@ -19,9 +19,9 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
         {% assign author = site.authors[author_id] %}
 
         {% if author.link %}
-          <a href="{{author.link">{{author.name}}</a>{% if forloop.last == false -%}, {% endif %}
+          <a href="{{author.link}}">{{author.name}}</a>{% if forloop.last == false %}, {% endif %}
         {% else %}
-          <a href="/authors.html#{{author_id}}">{{ author.name }}</a>{% if forloop.last == false -%}, {% endif %}
+          <a href="/authors.html#{{author_id}}">{{ author.name }}</a>{% if forloop.last == false %}, {% endif %}
         {% endif %}
         
       {% endfor %}
@@ -36,7 +36,7 @@ tagline: "organizing tech workshops. Hands-on, awesome, and free."
       {% assign author = site.authors[author_id] %}
 
       {% if author.link %}
-        <a href="{{author.link">{{author.name}}</a>
+        <a href="{{author.link}}">{{author.name}}</a>
       {% else %}
         <a href="/authors.html#{{author_id}}">{{ author.name }} </a>
       {% endif %}
