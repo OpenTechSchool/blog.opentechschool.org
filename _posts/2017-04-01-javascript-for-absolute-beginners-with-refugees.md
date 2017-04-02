@@ -10,11 +10,13 @@ authors:
   - martin
 ---
 
-Last Saturday (25 March) we did a JavaScript for Absolute Beginners workshop in Berlin again.
+Last Saturday (25 March) we did a [JavaScript for Absolute Beginners workshop in Berlin](
+https://www.meetup.com/opentechschool-berlin/events/238213272/) again.
 
 This one was particularly special as we successfully reached out to new people - in this case refugees. We got invited by [Neue Nachbarschaft Moabit](http://neuenachbarschaft.de), a community initiative for bringing together newcomers and locals, to do the workshop at their wonderful café. We were happy to have a diverse group of learners, coaches and organizers, half of them members of the Neue Nachbarschaft community.
 
 <img src="/assets/content/2017-04-01-js-workshop/01.jpg" width="500">
+
 <img src="/assets/content/2017-04-01-js-workshop/02.jpg" width="500">
 
 People enjoying learning together and connecting.
