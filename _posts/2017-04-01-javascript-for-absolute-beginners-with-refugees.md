@@ -25,7 +25,7 @@ People enjoying learning together and connecting.
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">American artists, Syrian refugees, born Berliners, Chinese engineers, meeting in a room to learn JavaScript together. Amazing!</p>&mdash; Hëävü Mëtäl Westin (@karlwestin) <a href="https://twitter.com/karlwestin/status/845694477138350086">25. März 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br><br>
+<br>
 
 A big Thank You goes out to the many helping hands that
 
