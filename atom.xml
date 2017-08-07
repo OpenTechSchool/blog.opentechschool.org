@@ -15,13 +15,14 @@ title : Atom Feed
  </author>
 
  {% for post in site.posts %}
-   {% if post.author %}
-    {% assign author = site.authors[post.author] %}
+  {% if post.author %}
     {% assign author_id = post.author %}
+  {% elsif post.authors.size > 0 %}
+    {% assign author_id = post.authors[0] %}
   {% else %}
-    {% assign author = site.authors[site.default_author] %}
     {% assign author_id = site.default_author %}
   {% endif %}
+  {% assign author = site.authors[author_id] %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
